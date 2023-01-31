@@ -15,7 +15,7 @@
         <v-container>
             <label>
                 ชุดดวงโคมชุดที่ 1 (ถ้ามีหลายชุดให้นับจากช่องจราจรช่องซ้ายสุด)
-                <v-row>
+                <v-row>{{ form.lampType }}
                     <!-- <v-radio-group v-model="form.lampType"> -->
                         <v-col>
                             <v-img 
@@ -110,10 +110,9 @@ data() {
         lampType:'',
         lightType:'',
         crossLight:'',
+        tunnelBridge:'',
+
     },
-    form:{
-        tunnelBridge:''
-    }
     }
 },
 methods: {
