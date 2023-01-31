@@ -1,6 +1,6 @@
 <template>   
     <div>
-        <longdo-map @load="event" :zoom="10" :lastView="false">         
+        <longdo-map @load="event" :zoom="10" :lastView="false" padding="mb-10">         
             <longdo-map-marker             
                 v-for="(item, i) in markers"             
                 :location="item.location"
@@ -8,10 +8,12 @@
                 :detail="item.detail"     
                 :key="i"             
             />     
-            <button @click="event">ลบ Markers</button>
+            <v-btn class="pa-20 space-button" @click="pin1">pin1</v-btn>
+            <v-btn class="pa-20 space-button" @click="pin2">pin2</v-btn>
+            <v-btn @click="rm" class="pa-20 space-button" depressed color="error"  >ลบ Markers</v-btn>
+
         </longdo-map> 
-        <!-- <button @click="pin1">pin1</button>
-        <button @click="pin2">pin2</button> -->
+
     </div>
 </template>
 
@@ -20,6 +22,7 @@ export default {
   data() {
     return {
         markers: [],
+        map: null
     }
   },
   methods: {
@@ -94,10 +97,19 @@ export default {
         })
         
     },
+    rm(map) {
+        try {
+            map.Overlays.clear()
+        }catch{
+            console.log('nopin')
+        }
+    }
   }
 }
 </script>
 
 <style>
-
+.space-button{
+  margin:5px;
+}
 </style>

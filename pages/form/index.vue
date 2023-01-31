@@ -1,10 +1,8 @@
 <template>
-  <div>
     <div class="container">
   
       <MapComponent class="map-size" />
     </div>
-  </div>
 </template>
   
   <script>
@@ -13,6 +11,7 @@
   
   export default {
     name: 'IndexPage',
+    layout: 'main_layouts',
     components:{
       Logo,
       MapComponent,

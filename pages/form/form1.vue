@@ -74,7 +74,7 @@
                     <button onclick="document.getElementById('fileInput').click()">
                       Select Image
                     </button>
-                    {/* <img src=''id="output" style="max-width: 100%" alt=""/> */}
+                    {/* <img src='' id="output" style="max-width: 100%" alt=""/> */}
                     {/* <img src="" id="output" alt="" /> */}
                   </div>
                   {/* <script>
