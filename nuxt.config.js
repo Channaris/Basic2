@@ -21,7 +21,9 @@ export default {
   css: [],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: ['~/plugins/longdo-map-vue.client.js'],
+  plugins: ['~/plugins/longdo-map-vue.client.js',
+            //  '~/plugins/db.js',
+            ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,

@@ -1,5 +1,9 @@
 <template>
     <SLPpart/>
+    <!-- <SLPpart 
+        v-for="post in SLPposts"
+            :data="post.form"
+    /> -->
 
 </template>
 
@@ -19,6 +23,11 @@ data() {
 },
 methods: {
 
+},
+properties: {
+    SLPposts:{
+        type:Array
+    }
 }
 }
 </script>

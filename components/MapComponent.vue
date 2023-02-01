@@ -7,7 +7,7 @@
                 :title="item.title"             
                 :detail="item.detail"     
                 :key="i"             
-            />     
+            />
             <v-btn class="pa-20 space-button" @click="pin1">pin1</v-btn>
             <v-btn class="pa-20 space-button" @click="pin2">pin2</v-btn>
             <v-btn @click="rm" class="pa-20 space-button" depressed color="error"  >ลบ Markers</v-btn>

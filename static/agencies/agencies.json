@@ -1,0 +1,5881 @@
+[{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f84"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 521,
+  "dis_name": "ขท.เชียงใหม่ที่ 1",
+  "depot_code": 52101,
+  "depot_name": "หมวดทางหลวงสันป่าตอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f85"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 521,
+  "dis_name": "ขท.เชียงใหม่ที่ 1",
+  "depot_code": 52102,
+  "depot_name": "หมวดทางหลวงท่าข้าม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f86"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 521,
+  "dis_name": "ขท.เชียงใหม่ที่ 1",
+  "depot_code": 52103,
+  "depot_name": "หมวดทางหลวงบ่อสลี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f87"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 521,
+  "dis_name": "ขท.เชียงใหม่ที่ 1",
+  "depot_code": 52104,
+  "depot_name": "หมวดทางหลวงจอมทอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f88"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 521,
+  "dis_name": "ขท.เชียงใหม่ที่ 1",
+  "depot_code": 52105,
+  "depot_name": "หมวดทางหลวงแม่แจ่ม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f89"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 521,
+  "dis_name": "ขท.เชียงใหม่ที่ 1",
+  "depot_code": 52106,
+  "depot_name": "หมวดทางหลวงอมก๋อย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f8a"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 521,
+  "dis_name": "ขท.เชียงใหม่ที่ 1",
+  "depot_code": 52107,
+  "depot_name": "หมวดทางหลวงดอยเต่า"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f8b"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 522,
+  "dis_name": "ขท.เชียงใหม่ที่ 2",
+  "depot_code": 52201,
+  "depot_name": "หมวดทางหลวงเชียงใหม่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f8c"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 522,
+  "dis_name": "ขท.เชียงใหม่ที่ 2",
+  "depot_code": 52202,
+  "depot_name": "หมวดทางหลวงแม่ริม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f8d"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 522,
+  "dis_name": "ขท.เชียงใหม่ที่ 2",
+  "depot_code": 52203,
+  "depot_name": "หมวดทางหลวงสันกำแพง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f8e"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 522,
+  "dis_name": "ขท.เชียงใหม่ที่ 2",
+  "depot_code": 52204,
+  "depot_name": "หมวดทางหลวงดอยสะเก็ด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f8f"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 522,
+  "dis_name": "ขท.เชียงใหม่ที่ 2",
+  "depot_code": 52205,
+  "depot_name": "หมวดทางหลวงสันทราย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f90"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 522,
+  "dis_name": "ขท.เชียงใหม่ที่ 2",
+  "depot_code": 52206,
+  "depot_name": "หมวดทางหลวงสารภี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f91"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 522,
+  "dis_name": "ขท.เชียงใหม่ที่ 2",
+  "depot_code": 52207,
+  "depot_name": "หมวดทางหลวงสะเมิง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f92"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 523,
+  "dis_name": "ขท.ลำปางที่ 1",
+  "depot_code": 52301,
+  "depot_name": "หมวดทางหลวงพระบาท"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f93"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 523,
+  "dis_name": "ขท.ลำปางที่ 1",
+  "depot_code": 52302,
+  "depot_name": "หมวดทางหลวงห้างฉัตร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f94"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 523,
+  "dis_name": "ขท.ลำปางที่ 1",
+  "depot_code": 52303,
+  "depot_name": "หมวดทางหลวงสบปราบ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f95"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 523,
+  "dis_name": "ขท.ลำปางที่ 1",
+  "depot_code": 52304,
+  "depot_name": "หมวดทางหลวงเถิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f96"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 523,
+  "dis_name": "ขท.ลำปางที่ 1",
+  "depot_code": 52305,
+  "depot_name": "หมวดทางหลวงแม่พริก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f97"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 523,
+  "dis_name": "ขท.ลำปางที่ 1",
+  "depot_code": 52306,
+  "depot_name": "หมวดทางหลวงชมพู"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f98"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 524,
+  "dis_name": "ขท.ลำพูน",
+  "depot_code": 52401,
+  "depot_name": "หมวดทางหลวงแม่ทา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f99"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 524,
+  "dis_name": "ขท.ลำพูน",
+  "depot_code": 52402,
+  "depot_name": "หมวดทางหลวงลำพูน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f9a"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 524,
+  "dis_name": "ขท.ลำพูน",
+  "depot_code": 52403,
+  "depot_name": "หมวดทางหลวงบ้านโฮ่ง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f9b"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 524,
+  "dis_name": "ขท.ลำพูน",
+  "depot_code": 52404,
+  "depot_name": "หมวดทางหลวงศรีวิชัย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f9c"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 524,
+  "dis_name": "ขท.ลำพูน",
+  "depot_code": 52405,
+  "depot_name": "หมวดทางหลวงลี้"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f9d"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 524,
+  "dis_name": "ขท.ลำพูน",
+  "depot_code": 52406,
+  "depot_name": "หมวดทางหลวงทุ่งหัวช้าง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f9e"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 526,
+  "dis_name": "ขท.แม่ฮ่องสอน",
+  "depot_code": 52601,
+  "depot_name": "หมวดทางหลวงแม่สะเรียง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86f9f"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 526,
+  "dis_name": "ขท.แม่ฮ่องสอน",
+  "depot_code": 52602,
+  "depot_name": "หมวดทางหลวงแม่ลาน้อย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fa0"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 526,
+  "dis_name": "ขท.แม่ฮ่องสอน",
+  "depot_code": 52603,
+  "depot_name": "หมวดทางหลวงขุนยวม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fa1"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 526,
+  "dis_name": "ขท.แม่ฮ่องสอน",
+  "depot_code": 52604,
+  "depot_name": "หมวดทางหลวงแม่ฮ่องสอน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fa2"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 526,
+  "dis_name": "ขท.แม่ฮ่องสอน",
+  "depot_code": 52605,
+  "depot_name": "หมวดทางหลวงปาย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fa3"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 526,
+  "dis_name": "ขท.แม่ฮ่องสอน",
+  "depot_code": 52606,
+  "depot_name": "หมวดทางหลวงปางมะผ้า"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fa4"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 527,
+  "dis_name": "ขท.เชียงใหม่ที่ 3",
+  "depot_code": 52701,
+  "depot_name": "หมวดทางหลวงแม่แตง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fa5"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 527,
+  "dis_name": "ขท.เชียงใหม่ที่ 3",
+  "depot_code": 52702,
+  "depot_name": "หมวดทางหลวงเชียงดาว(ปิงโค้ง)"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fa6"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 527,
+  "dis_name": "ขท.เชียงใหม่ที่ 3",
+  "depot_code": 52703,
+  "depot_name": "หมวดทางหลวงไชยปราการ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fa7"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 527,
+  "dis_name": "ขท.เชียงใหม่ที่ 3",
+  "depot_code": 52704,
+  "depot_name": "หมวดทางหลวงฝาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fa8"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 527,
+  "dis_name": "ขท.เชียงใหม่ที่ 3",
+  "depot_code": 52705,
+  "depot_name": "หมวดทางหลวงพร้าว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fa9"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 527,
+  "dis_name": "ขท.เชียงใหม่ที่ 3",
+  "depot_code": 52706,
+  "depot_name": "หมวดทางหลวงเวียงแหง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86faa"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 528,
+  "dis_name": "ขท.ลำปางที่ 2",
+  "depot_code": 52801,
+  "depot_name": "หมวดทางหลวงบ้านเสด็จ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fab"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 528,
+  "dis_name": "ขท.ลำปางที่ 2",
+  "depot_code": 52802,
+  "depot_name": "หมวดทางหลวงบ้านเอื้อม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fac"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 528,
+  "dis_name": "ขท.ลำปางที่ 2",
+  "depot_code": 52803,
+  "depot_name": "หมวดทางหลวงแจ้ห่ม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fad"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 528,
+  "dis_name": "ขท.ลำปางที่ 2",
+  "depot_code": 52804,
+  "depot_name": "หมวดทางหลวงงาว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fae"
+  },
+  "division_code": 520,
+  "division_name": "สำนักงานทางหลวงที่ 1 (เชียงใหม่)",
+  "district_code": 528,
+  "dis_name": "ขท.ลำปางที่ 2",
+  "depot_code": 52805,
+  "depot_name": "หมวดทางหลวงวังเหนือ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86faf"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 531,
+  "dis_name": "ขท.แพร่",
+  "depot_code": 53101,
+  "depot_name": "หมวดทางหลวงแพร่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fb0"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 531,
+  "dis_name": "ขท.แพร่",
+  "depot_code": 53102,
+  "depot_name": "หมวดทางหลวงเด่นชัย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fb1"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 531,
+  "dis_name": "ขท.แพร่",
+  "depot_code": 53103,
+  "depot_name": "หมวดทางหลวงร้องกวาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fb2"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 531,
+  "dis_name": "ขท.แพร่",
+  "depot_code": 53104,
+  "depot_name": "หมวดทางหลวงลอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fb3"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 531,
+  "dis_name": "ขท.แพร่",
+  "depot_code": 53105,
+  "depot_name": "หมวดทางหลวงสอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fb4"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 531,
+  "dis_name": "ขท.แพร่",
+  "depot_code": 53106,
+  "depot_name": "หมวดทางหลวงวังชิ้น"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fb5"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 533,
+  "dis_name": "ขท.เชียงรายที่ 1",
+  "depot_code": 53301,
+  "depot_name": "หมวดทางหลวงเชียงราย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fb6"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 533,
+  "dis_name": "ขท.เชียงรายที่ 1",
+  "depot_code": 53302,
+  "depot_name": "หมวดทางหลวงห้วยสัก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fb7"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 533,
+  "dis_name": "ขท.เชียงรายที่ 1",
+  "depot_code": 53303,
+  "depot_name": "หมวดทางหลวงแม่ลาว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fb8"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 533,
+  "dis_name": "ขท.เชียงรายที่ 1",
+  "depot_code": 53304,
+  "depot_name": "หมวดทางหลวงแม่จัน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fb9"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 533,
+  "dis_name": "ขท.เชียงรายที่ 1",
+  "depot_code": 53305,
+  "depot_name": "หมวดทางหลวงแม่สาย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fba"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 533,
+  "dis_name": "ขท.เชียงรายที่ 1",
+  "depot_code": 53306,
+  "depot_name": "หมวดทางหลวงแม่สรวย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fbb"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 535,
+  "dis_name": "ขท.พะเยา",
+  "depot_code": 53501,
+  "depot_name": "หมวดทางหลวงพะเยา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fbc"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 535,
+  "dis_name": "ขท.พะเยา",
+  "depot_code": 53502,
+  "depot_name": "หมวดทางหลวงแม่ใจ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fbd"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 535,
+  "dis_name": "ขท.พะเยา",
+  "depot_code": 53503,
+  "depot_name": "หมวดทางหลวงดอกคำใต้"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fbe"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 535,
+  "dis_name": "ขท.พะเยา",
+  "depot_code": 53504,
+  "depot_name": "หมวดทางหลวงจุน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fbf"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 535,
+  "dis_name": "ขท.พะเยา",
+  "depot_code": 53505,
+  "depot_name": "หมวดทางหลวงปง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fc0"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 535,
+  "dis_name": "ขท.พะเยา",
+  "depot_code": 53507,
+  "depot_name": "หมวดทางหลวงเชียงคำ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fc1"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 535,
+  "dis_name": "ขท.พะเยา",
+  "depot_code": 53508,
+  "depot_name": "หมวดทางหลวงเชียงม่วน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fc2"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 536,
+  "dis_name": "ขท.น่านที่ 1",
+  "depot_code": 53601,
+  "depot_name": "หมวดทางหลวงเวียงสา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fc3"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 536,
+  "dis_name": "ขท.น่านที่ 1",
+  "depot_code": 53602,
+  "depot_name": "หมวดทางหลวงน่าน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fc4"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 536,
+  "dis_name": "ขท.น่านที่ 1",
+  "depot_code": 53603,
+  "depot_name": "หมวดทางหลวงน้ำมวบ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fc5"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 536,
+  "dis_name": "ขท.น่านที่ 1",
+  "depot_code": 53604,
+  "depot_name": "หมวดทางหลวงสันติสุข"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fc6"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 536,
+  "dis_name": "ขท.น่านที่ 1",
+  "depot_code": 53605,
+  "depot_name": "หมวดทางหลวงแม่จริม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fc7"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 536,
+  "dis_name": "ขท.น่านที่ 1",
+  "depot_code": 53606,
+  "depot_name": "หมวดทางหลวงนาน้อย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fc8"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 537,
+  "dis_name": "ขท.เชียงรายที่ 2",
+  "depot_code": 53701,
+  "depot_name": "หมวดทางหลวงเทิง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fc9"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 537,
+  "dis_name": "ขท.เชียงรายที่ 2",
+  "depot_code": 53702,
+  "depot_name": "หมวดทางหลวงป่าแดด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fca"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 537,
+  "dis_name": "ขท.เชียงรายที่ 2",
+  "depot_code": 53703,
+  "depot_name": "หมวดทางหลวงเวียงเชียงรุ้ง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fcb"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 537,
+  "dis_name": "ขท.เชียงรายที่ 2",
+  "depot_code": 53704,
+  "depot_name": "หมวดทางหลวงเวียงแก่น"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fcc"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 537,
+  "dis_name": "ขท.เชียงรายที่ 2",
+  "depot_code": 53705,
+  "depot_name": "หมวดทางหลวงเชียงของ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fcd"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 537,
+  "dis_name": "ขท.เชียงรายที่ 2",
+  "depot_code": 53706,
+  "depot_name": "หมวดทางหลวงเชียงแสน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fce"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 539,
+  "dis_name": "ขท.น่านที่ 2",
+  "depot_code": 53901,
+  "depot_name": "หมวดทางหลวงท่าวังผา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fcf"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 539,
+  "dis_name": "ขท.น่านที่ 2",
+  "depot_code": 53902,
+  "depot_name": "หมวดทางหลวงเชียงกลาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fd0"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 539,
+  "dis_name": "ขท.น่านที่ 2",
+  "depot_code": 53903,
+  "depot_name": "หมวดทางหลวงสองแคว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fd1"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 539,
+  "dis_name": "ขท.น่านที่ 2",
+  "depot_code": 53904,
+  "depot_name": "หมวดทางหลวงเฉลิมพระเกียรติ (น่าน)"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fd2"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 539,
+  "dis_name": "ขท.น่านที่ 2",
+  "depot_code": 53905,
+  "depot_name": "หมวดทางหลวงบ่อเกลือ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fd3"
+  },
+  "division_code": 530,
+  "division_name": "สำนักงานทางหลวงที่ 2 (แพร่)",
+  "district_code": 539,
+  "dis_name": "ขท.น่านที่ 2",
+  "depot_code": 53906,
+  "depot_name": "หมวดทางหลวงผาช้างน้อย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fd4"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 639,
+  "dis_name": "ขท.มุกดาหาร",
+  "depot_code": 63901,
+  "depot_name": "หมวดทางหลวงมุกดาหาร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fd5"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 639,
+  "dis_name": "ขท.มุกดาหาร",
+  "depot_code": 63902,
+  "depot_name": "หมวดทางหลวงดอนตาล"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fd6"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 639,
+  "dis_name": "ขท.มุกดาหาร",
+  "depot_code": 63903,
+  "depot_name": "หมวดทางหลวงหนองสูง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fd7"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 639,
+  "dis_name": "ขท.มุกดาหาร",
+  "depot_code": 63904,
+  "depot_name": "หมวดทางหลวงดงหลวง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fd8"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 639,
+  "dis_name": "ขท.มุกดาหาร",
+  "depot_code": 63905,
+  "depot_name": "หมวดทางหลวงเลิงนกทา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fd9"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 641,
+  "dis_name": "ขท.สกลนครที่ 1",
+  "depot_code": 64101,
+  "depot_name": "หมวดทางหลวงดงมะไฟ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fda"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 641,
+  "dis_name": "ขท.สกลนครที่ 1",
+  "depot_code": 64102,
+  "depot_name": "หมวดทางหลวงคำหอม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fdb"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 641,
+  "dis_name": "ขท.สกลนครที่ 1",
+  "depot_code": 64103,
+  "depot_name": "หมวดทางหลวงโคกศรีสุพรรณ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fdc"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 641,
+  "dis_name": "ขท.สกลนครที่ 1",
+  "depot_code": 64104,
+  "depot_name": "หมวดทางหลวงกุสุมาลย์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fdd"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 641,
+  "dis_name": "ขท.สกลนครที่ 1",
+  "depot_code": 64105,
+  "depot_name": "หมวดทางหลวงสร้างค้อ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fde"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 641,
+  "dis_name": "ขท.สกลนครที่ 1",
+  "depot_code": 64106,
+  "depot_name": "หมวดทางหลวงห้วยผึ้ง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fdf"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 642,
+  "dis_name": "ขท.สกลนครที่ 2 (สว่างแดนดิน)",
+  "depot_code": 64201,
+  "depot_name": "หมวดทางหลวงสว่างแดนดิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fe0"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 642,
+  "dis_name": "ขท.สกลนครที่ 2 (สว่างแดนดิน)",
+  "depot_code": 64202,
+  "depot_name": "หมวดทางหลวงพังโคน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fe1"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 642,
+  "dis_name": "ขท.สกลนครที่ 2 (สว่างแดนดิน)",
+  "depot_code": 64203,
+  "depot_name": "หมวดทางหลวงวานรนิวาส"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fe2"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 642,
+  "dis_name": "ขท.สกลนครที่ 2 (สว่างแดนดิน)",
+  "depot_code": 64204,
+  "depot_name": "หมวดทางหลวงกุดบาก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fe3"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 642,
+  "dis_name": "ขท.สกลนครที่ 2 (สว่างแดนดิน)",
+  "depot_code": 64205,
+  "depot_name": "หมวดทางหลวงอากาศอำนวย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fe4"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 643,
+  "dis_name": "ขท.บึงกาฬ",
+  "depot_code": 64301,
+  "depot_name": "หมวดทางหลวงบ้านม่วง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fe5"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 643,
+  "dis_name": "ขท.บึงกาฬ",
+  "depot_code": 64302,
+  "depot_name": "หมวดทางหลวงบึงกาฬ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fe6"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 643,
+  "dis_name": "ขท.บึงกาฬ",
+  "depot_code": 64303,
+  "depot_name": "หมวดทางหลวงศรีวิไล"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fe7"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 643,
+  "dis_name": "ขท.บึงกาฬ",
+  "depot_code": 64304,
+  "depot_name": "หมวดทางหลวงเซกา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fe8"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 644,
+  "dis_name": "ขท.นครพนม",
+  "depot_code": 64401,
+  "depot_name": "หมวดทางหลวงนครพนม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fe9"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 644,
+  "dis_name": "ขท.นครพนม",
+  "depot_code": 64402,
+  "depot_name": "หมวดทางหลวงท่าอุเทน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fea"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 644,
+  "dis_name": "ขท.นครพนม",
+  "depot_code": 64404,
+  "depot_name": "หมวดทางหลวงศรีสงคราม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86feb"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 644,
+  "dis_name": "ขท.นครพนม",
+  "depot_code": 64405,
+  "depot_name": "หมวดทางหลวงปลาปาก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fec"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 644,
+  "dis_name": "ขท.นครพนม",
+  "depot_code": 64406,
+  "depot_name": "หมวดทางหลวงนาแก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fed"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 646,
+  "dis_name": "ขท.หนองคาย",
+  "depot_code": 64601,
+  "depot_name": "หมวดทางหลวงหนองคาย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fee"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 646,
+  "dis_name": "ขท.หนองคาย",
+  "depot_code": 64602,
+  "depot_name": "หมวดทางหลวงพระธาตุบังพวน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fef"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 646,
+  "dis_name": "ขท.หนองคาย",
+  "depot_code": 64603,
+  "depot_name": "หมวดทางหลวงสังคม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ff0"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 646,
+  "dis_name": "ขท.หนองคาย",
+  "depot_code": 64604,
+  "depot_name": "หมวดทางหลวงโพนพิสัย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ff1"
+  },
+  "division_code": 640,
+  "division_name": "สำนักงานทางหลวงที่ 3 (สกลนคร)",
+  "district_code": 646,
+  "dis_name": "ขท.หนองคาย",
+  "depot_code": 64605,
+  "depot_name": "หมวดทางหลวงรัตนวาปี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ff2"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 512,
+  "dis_name": "ขท.ตากที่ 1",
+  "depot_code": 51201,
+  "depot_name": "หมวดทางหลวงหนองบัวใต้"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ff3"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 512,
+  "dis_name": "ขท.ตากที่ 1",
+  "depot_code": 51202,
+  "depot_name": "หมวดทางหลวงแม่ท้อ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ff4"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 512,
+  "dis_name": "ขท.ตากที่ 1",
+  "depot_code": 51203,
+  "depot_name": "หมวดทางหลวงวังประจบ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ff5"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 512,
+  "dis_name": "ขท.ตากที่ 1",
+  "depot_code": 51204,
+  "depot_name": "หมวดทางหลวงแม่สลิด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ff6"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 512,
+  "dis_name": "ขท.ตากที่ 1",
+  "depot_code": 51205,
+  "depot_name": "หมวดทางหลวงท้องฟ้า"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ff7"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 512,
+  "dis_name": "ขท.ตากที่ 1",
+  "depot_code": 51206,
+  "depot_name": "หมวดทางหลวงบ้านด่านลานหอย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ff8"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 512,
+  "dis_name": "ขท.ตากที่ 1",
+  "depot_code": 51207,
+  "depot_name": "หมวดทางหลวงพรานกระต่าย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ff9"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 513,
+  "dis_name": "ขท.สุโขทัย",
+  "depot_code": 51301,
+  "depot_name": "หมวดทางหลวงศรีสำโรง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ffa"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 513,
+  "dis_name": "ขท.สุโขทัย",
+  "depot_code": 51302,
+  "depot_name": "หมวดทางหลวงสุโขทัย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ffb"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 513,
+  "dis_name": "ขท.สุโขทัย",
+  "depot_code": 51304,
+  "depot_name": "หมวดทางหลวงคีรีมาศ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ffc"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 513,
+  "dis_name": "ขท.สุโขทัย",
+  "depot_code": 51305,
+  "depot_name": "หมวดทางหลวงสวรรคโลก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ffd"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 513,
+  "dis_name": "ขท.สุโขทัย",
+  "depot_code": 51306,
+  "depot_name": "หมวดทางหลวงทุ่งเสลี่ยม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86ffe"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 513,
+  "dis_name": "ขท.สุโขทัย",
+  "depot_code": 51307,
+  "depot_name": "หมวดทางหลวงบ้านแก่ง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d86fff"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 513,
+  "dis_name": "ขท.สุโขทัย",
+  "depot_code": 51308,
+  "depot_name": "หมวดทางหลวงแม่สิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87000"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 514,
+  "dis_name": "ขท.ตากที่ 2 (แม่สอด)",
+  "depot_code": 51401,
+  "depot_name": "หมวดทางหลวงแม่สอด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87001"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 514,
+  "dis_name": "ขท.ตากที่ 2 (แม่สอด)",
+  "depot_code": 51402,
+  "depot_name": "หมวดทางหลวงช่องแคบ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87002"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 514,
+  "dis_name": "ขท.ตากที่ 2 (แม่สอด)",
+  "depot_code": 51403,
+  "depot_name": "หมวดทางหลวงแม่ระมาด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87003"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 514,
+  "dis_name": "ขท.ตากที่ 2 (แม่สอด)",
+  "depot_code": 51404,
+  "depot_name": "หมวดทางหลวงคีรีราษฎร์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87004"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 514,
+  "dis_name": "ขท.ตากที่ 2 (แม่สอด)",
+  "depot_code": 51405,
+  "depot_name": "หมวดทางหลวงท่าสองยาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87005"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 514,
+  "dis_name": "ขท.ตากที่ 2 (แม่สอด)",
+  "depot_code": 51406,
+  "depot_name": "หมวดทางหลวงอุ้มผาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87006"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 517,
+  "dis_name": "ขท.กำแพงเพชร",
+  "depot_code": 51701,
+  "depot_name": "หมวดทางหลวงนครชุม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87007"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 517,
+  "dis_name": "ขท.กำแพงเพชร",
+  "depot_code": 51702,
+  "depot_name": "หมวดทางหลวงโกสัมพีนคร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87008"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 517,
+  "dis_name": "ขท.กำแพงเพชร",
+  "depot_code": 51703,
+  "depot_name": "หมวดทางหลวงบ่อทอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87009"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 517,
+  "dis_name": "ขท.กำแพงเพชร",
+  "depot_code": 51704,
+  "depot_name": "หมวดทางหลวงคณฑี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8700a"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 517,
+  "dis_name": "ขท.กำแพงเพชร",
+  "depot_code": 51705,
+  "depot_name": "หมวดทางหลวงคลองขลุง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8700b"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 517,
+  "dis_name": "ขท.กำแพงเพชร",
+  "depot_code": 51707,
+  "depot_name": "หมวดทางหลวงปากคลองลาน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8700c"
+  },
+  "division_code": 152,
+  "division_name": "สำนักงานทางหลวงที่ 4 (ตาก)",
+  "district_code": 517,
+  "dis_name": "ขท.กำแพงเพชร",
+  "depot_code": 51709,
+  "depot_name": "หมวดทางหลวงคลองลานพัฒนา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8700d"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 511,
+  "dis_name": "ขท.พิษณุโลกที่ 1",
+  "depot_code": 51101,
+  "depot_name": "หมวดทางหลวงพิษณุโลก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8700e"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 511,
+  "dis_name": "ขท.พิษณุโลกที่ 1",
+  "depot_code": 51102,
+  "depot_name": "หมวดทางหลวงไผ่ขอดอน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8700f"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 511,
+  "dis_name": "ขท.พิษณุโลกที่ 1",
+  "depot_code": 51103,
+  "depot_name": "หมวดทางหลวงลานกระบือ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87010"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 511,
+  "dis_name": "ขท.พิษณุโลกที่ 1",
+  "depot_code": 51104,
+  "depot_name": "หมวดทางหลวงบางระกำ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87011"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 515,
+  "dis_name": "ขท.พิษณุโลกที่ 2 (วังทอง)",
+  "depot_code": 51501,
+  "depot_name": "หมวดทางหลวงวังทอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87012"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 515,
+  "dis_name": "ขท.พิษณุโลกที่ 2 (วังทอง)",
+  "depot_code": 51502,
+  "depot_name": "หมวดทางหลวงแก่งโสภา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87013"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 515,
+  "dis_name": "ขท.พิษณุโลกที่ 2 (วังทอง)",
+  "depot_code": 51503,
+  "depot_name": "หมวดทางหลวงนครไทย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87014"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 515,
+  "dis_name": "ขท.พิษณุโลกที่ 2 (วังทอง)",
+  "depot_code": 51504,
+  "depot_name": "หมวดทางหลวงชาติตระการ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87015"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 515,
+  "dis_name": "ขท.พิษณุโลกที่ 2 (วังทอง)",
+  "depot_code": 51505,
+  "depot_name": "หมวดทางหลวงบางกระทุ่ม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87016"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 515,
+  "dis_name": "ขท.พิษณุโลกที่ 2 (วังทอง)",
+  "depot_code": 51506,
+  "depot_name": "หมวดทางหลวงบ้านป่า"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87017"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 519,
+  "dis_name": "ขท.พิจิตร",
+  "depot_code": 51901,
+  "depot_name": "หมวดทางหลวงพิจิตร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87018"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 519,
+  "dis_name": "ขท.พิจิตร",
+  "depot_code": 51902,
+  "depot_name": "หมวดทางหลวงตะพานหิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87019"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 519,
+  "dis_name": "ขท.พิจิตร",
+  "depot_code": 51903,
+  "depot_name": "หมวดทางหลวงวชิรบารมี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8701a"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 519,
+  "dis_name": "ขท.พิจิตร",
+  "depot_code": 51904,
+  "depot_name": "หมวดทางหลวงเขาเจ็ดลูก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8701b"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 519,
+  "dis_name": "ขท.พิจิตร",
+  "depot_code": 51905,
+  "depot_name": "หมวดทางหลวงเขาทราย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8701c"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 519,
+  "dis_name": "ขท.พิจิตร",
+  "depot_code": 51906,
+  "depot_name": "หมวดทางหลวงบึงนาราง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8701d"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 557,
+  "dis_name": "ขท.อุตรดิตถ์ที่ 1",
+  "depot_code": 55701,
+  "depot_name": "หมวดทางหลวงลับแล"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8701e"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 557,
+  "dis_name": "ขท.อุตรดิตถ์ที่ 1",
+  "depot_code": 55702,
+  "depot_name": "หมวดทางหลวงตรอน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8701f"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 557,
+  "dis_name": "ขท.อุตรดิตถ์ที่ 1",
+  "depot_code": 55703,
+  "depot_name": "หมวดทางหลวงทองแสนขัน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87020"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 557,
+  "dis_name": "ขท.อุตรดิตถ์ที่ 1",
+  "depot_code": 55704,
+  "depot_name": "หมวดทางหลวงพิชัย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87021"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 558,
+  "dis_name": "ขท.อุตรดิตถ์ที่ 2",
+  "depot_code": 55801,
+  "depot_name": "หมวดทางหลวงอุตรดิตถ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87022"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 558,
+  "dis_name": "ขท.อุตรดิตถ์ที่ 2",
+  "depot_code": 55802,
+  "depot_name": "หมวดทางหลวงท่าปลา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87023"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 558,
+  "dis_name": "ขท.อุตรดิตถ์ที่ 2",
+  "depot_code": 55803,
+  "depot_name": "หมวดทางหลวงน้ำปาด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87024"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 558,
+  "dis_name": "ขท.อุตรดิตถ์ที่ 2",
+  "depot_code": 55804,
+  "depot_name": "หมวดทางหลวงบ้านโคก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87025"
+  },
+  "division_code": 510,
+  "division_name": "สำนักงานทางหลวงที่ 5 (พิษณุโลก)",
+  "district_code": 558,
+  "dis_name": "ขท.อุตรดิตถ์ที่ 2",
+  "depot_code": 55805,
+  "depot_name": "หมวดทางหลวงม่วงเจ็ดต้น"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87026"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 551,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 1",
+  "depot_code": 55101,
+  "depot_name": "หมวดทางหลวงนางั่ว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87027"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 551,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 1",
+  "depot_code": 55102,
+  "depot_name": "หมวดทางหลวงเขาค้อ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87028"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 551,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 1",
+  "depot_code": 55103,
+  "depot_name": "หมวดทางหลวงหล่มสัก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87029"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 551,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 1",
+  "depot_code": 55104,
+  "depot_name": "หมวดทางหลวงเพชรบูรณ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8702a"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 551,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 1",
+  "depot_code": 55105,
+  "depot_name": "หมวดทางหลวงหล่มเก่า"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8702b"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 551,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 1",
+  "depot_code": 55106,
+  "depot_name": "หมวดทางหลวงแคมป์สน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8702c"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 551,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 1",
+  "depot_code": 55107,
+  "depot_name": "หมวดทางหลวงปากช่อง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8702d"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 551,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 1",
+  "depot_code": 55108,
+  "depot_name": "หมวดทางหลวงตาดกลอย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8702e"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 552,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 2 (บึงสามพัน)",
+  "depot_code": 55201,
+  "depot_name": "หมวดทางหลวงบึงสามพัน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8702f"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 552,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 2 (บึงสามพัน)",
+  "depot_code": 55202,
+  "depot_name": "หมวดทางหลวงวิเชียรบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87030"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 552,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 2 (บึงสามพัน)",
+  "depot_code": 55203,
+  "depot_name": "หมวดทางหลวงหนองไผ่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87031"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 552,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 2 (บึงสามพัน)",
+  "depot_code": 55204,
+  "depot_name": "หมวดทางหลวงศรีเทพ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87032"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 552,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 2 (บึงสามพัน)",
+  "depot_code": 55205,
+  "depot_name": "หมวดทางหลวงวังชมภู"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87033"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 552,
+  "dis_name": "ขท.เพชรบูรณ์ที่ 2 (บึงสามพัน)",
+  "depot_code": 55206,
+  "depot_name": "หมวดทางหลวงชนแดน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87034"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 554,
+  "dis_name": "ขท.เลยที่ 1",
+  "depot_code": 55401,
+  "depot_name": "หมวดทางหลวงหนองหิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87035"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 554,
+  "dis_name": "ขท.เลยที่ 1",
+  "depot_code": 55402,
+  "depot_name": "หมวดทางหลวงวังสะพุง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87036"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 554,
+  "dis_name": "ขท.เลยที่ 1",
+  "depot_code": 55403,
+  "depot_name": "หมวดทางหลวงภูกระดึง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87037"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 554,
+  "dis_name": "ขท.เลยที่ 1",
+  "depot_code": 55404,
+  "depot_name": "หมวดทางหลวงปากชม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87038"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 554,
+  "dis_name": "ขท.เลยที่ 1",
+  "depot_code": 55405,
+  "depot_name": "หมวดทางหลวงเลย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87039"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 554,
+  "dis_name": "ขท.เลยที่ 1",
+  "depot_code": 55406,
+  "depot_name": "หมวดทางหลวงเชียงคาน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8703a"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 555,
+  "dis_name": "ขท.เลยที่ 2 (ด่านซ้าย)",
+  "depot_code": 55501,
+  "depot_name": "หมวดทางหลวงโป่งชี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8703b"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 555,
+  "dis_name": "ขท.เลยที่ 2 (ด่านซ้าย)",
+  "depot_code": 55502,
+  "depot_name": "หมวดทางหลวงด่านซ้าย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8703c"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 555,
+  "dis_name": "ขท.เลยที่ 2 (ด่านซ้าย)",
+  "depot_code": 55503,
+  "depot_name": "หมวดทางหลวงโคกงาม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8703d"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 555,
+  "dis_name": "ขท.เลยที่ 2 (ด่านซ้าย)",
+  "depot_code": 55504,
+  "depot_name": "หมวดทางหลวงภูเรือ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8703e"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 555,
+  "dis_name": "ขท.เลยที่ 2 (ด่านซ้าย)",
+  "depot_code": 55505,
+  "depot_name": "หมวดทางหลวงปากภู"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8703f"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 629,
+  "dis_name": "ขท.หนองบัวลำภู",
+  "depot_code": 62901,
+  "depot_name": "หมวดทางหลวงหนองบัวลำภู"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87040"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 629,
+  "dis_name": "ขท.หนองบัวลำภู",
+  "depot_code": 62902,
+  "depot_name": "หมวดทางหลวงโนนสัง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87041"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 629,
+  "dis_name": "ขท.หนองบัวลำภู",
+  "depot_code": 62903,
+  "depot_name": "หมวดทางหลวงหนองนาคำ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87042"
+  },
+  "division_code": 550,
+  "division_name": "สำนักงานทางหลวงที่ 6 (เพชรบูรณ์)",
+  "district_code": 629,
+  "dis_name": "ขท.หนองบัวลำภู",
+  "depot_code": 62904,
+  "depot_name": "หมวดทางหลวงสุวรรณคูหา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87043"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 621,
+  "dis_name": "ขท.ขอนแก่นที่ 1",
+  "depot_code": 62101,
+  "depot_name": "หมวดทางหลวงศิลา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87044"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 621,
+  "dis_name": "ขท.ขอนแก่นที่ 1",
+  "depot_code": 62102,
+  "depot_name": "หมวดทางหลวงพระลับ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87045"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 621,
+  "dis_name": "ขท.ขอนแก่นที่ 1",
+  "depot_code": 62103,
+  "depot_name": "หมวดทางหลวงน้ำพอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87046"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 621,
+  "dis_name": "ขท.ขอนแก่นที่ 1",
+  "depot_code": 62104,
+  "depot_name": "หมวดทางหลวงกระนวน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87047"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 621,
+  "dis_name": "ขท.ขอนแก่นที่ 1",
+  "depot_code": 62105,
+  "depot_name": "หมวดทางหลวงเชียงยืน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87048"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 623,
+  "dis_name": "ขท.อุดรธานีที่ 1",
+  "depot_code": 62301,
+  "depot_name": "หมวดทางหลวงชัยพร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87049"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 623,
+  "dis_name": "ขท.อุดรธานีที่ 1",
+  "depot_code": 62302,
+  "depot_name": "หมวดทางหลวงเก่าน้อย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8704a"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 623,
+  "dis_name": "ขท.อุดรธานีที่ 1",
+  "depot_code": 62303,
+  "depot_name": "หมวดทางหลวงน้ำโสม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8704b"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 623,
+  "dis_name": "ขท.อุดรธานีที่ 1",
+  "depot_code": 62304,
+  "depot_name": "หมวดทางหลวงนิคมสงเคราะห์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8704c"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 623,
+  "dis_name": "ขท.อุดรธานีที่ 1",
+  "depot_code": 62305,
+  "depot_name": "หมวดทางหลวงบ้านผือ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8704d"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 624,
+  "dis_name": "ขท.อุดรธานีที่ 2 (หนองหาน)",
+  "depot_code": 62401,
+  "depot_name": "หมวดทางหลวงหนองหาน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8704e"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 624,
+  "dis_name": "ขท.อุดรธานีที่ 2 (หนองหาน)",
+  "depot_code": 62402,
+  "depot_name": "หมวดทางหลวงบ้านดุง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8704f"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 624,
+  "dis_name": "ขท.อุดรธานีที่ 2 (หนองหาน)",
+  "depot_code": 62403,
+  "depot_name": "หมวดทางหลวงไชยวาน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87050"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 624,
+  "dis_name": "ขท.อุดรธานีที่ 2 (หนองหาน)",
+  "depot_code": 62404,
+  "depot_name": "หมวดทางหลวงเพ็ญ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87051"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 626,
+  "dis_name": "ขท.ชัยภูมิ",
+  "depot_code": 62601,
+  "depot_name": "หมวดทางหลวงชัยภูมิ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87052"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 626,
+  "dis_name": "ขท.ชัยภูมิ",
+  "depot_code": 62603,
+  "depot_name": "หมวดทางหลวงจตุรัส"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87053"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 626,
+  "dis_name": "ขท.ชัยภูมิ",
+  "depot_code": 62604,
+  "depot_name": "หมวดทางหลวงโป่งนก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87054"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 626,
+  "dis_name": "ขท.ชัยภูมิ",
+  "depot_code": 62605,
+  "depot_name": "หมวดทางหลวงหนองบัวแดง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87055"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 626,
+  "dis_name": "ขท.ชัยภูมิ",
+  "depot_code": 62607,
+  "depot_name": "หมวดทางหลวงเทพสถิต"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87056"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 626,
+  "dis_name": "ขท.ชัยภูมิ",
+  "depot_code": 62608,
+  "depot_name": "หมวดทางหลวงละหาน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87057"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 627,
+  "dis_name": "ขท.ขอนแก่นที่ 2 (ชุมแพ)",
+  "depot_code": 62701,
+  "depot_name": "หมวดทางหลวงหนองไผ่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87058"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 627,
+  "dis_name": "ขท.ขอนแก่นที่ 2 (ชุมแพ)",
+  "depot_code": 62702,
+  "depot_name": "หมวดทางหลวงโนนหัน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87059"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 627,
+  "dis_name": "ขท.ขอนแก่นที่ 2 (ชุมแพ)",
+  "depot_code": 62703,
+  "depot_name": "หมวดทางหลวงหนองเรือ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8705a"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 627,
+  "dis_name": "ขท.ขอนแก่นที่ 2 (ชุมแพ)",
+  "depot_code": 62704,
+  "depot_name": "หมวดทางหลวงเกษตรสมบูรณ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8705b"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 627,
+  "dis_name": "ขท.ขอนแก่นที่ 2 (ชุมแพ)",
+  "depot_code": 62705,
+  "depot_name": "หมวดทางหลวงแก้งคร้อ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8705c"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 628,
+  "dis_name": "ขท.ขอนแก่นที่ 3 (บ้านไผ่)",
+  "depot_code": 62801,
+  "depot_name": "หมวดทางหลวงพล"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8705d"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 628,
+  "dis_name": "ขท.ขอนแก่นที่ 3 (บ้านไผ่)",
+  "depot_code": 62802,
+  "depot_name": "หมวดทางหลวงบ้านไผ่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8705e"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 628,
+  "dis_name": "ขท.ขอนแก่นที่ 3 (บ้านไผ่)",
+  "depot_code": 62803,
+  "depot_name": "หมวดทางหลวงหนองสองห้อง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8705f"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 628,
+  "dis_name": "ขท.ขอนแก่นที่ 3 (บ้านไผ่)",
+  "depot_code": 62804,
+  "depot_name": "หมวดทางหลวงมัญจาคีรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87060"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 628,
+  "dis_name": "ขท.ขอนแก่นที่ 3 (บ้านไผ่)",
+  "depot_code": 62805,
+  "depot_name": "หมวดทางหลวงบ้านแฮด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87061"
+  },
+  "division_code": 620,
+  "division_name": "สำนักงานทางหลวงที่ 7 (ขอนแก่น)",
+  "district_code": 628,
+  "dis_name": "ขท.ขอนแก่นที่ 3 (บ้านไผ่)",
+  "depot_code": 62806,
+  "depot_name": "หมวดทางหลวงชนบท"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87062"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 622,
+  "dis_name": "ขท.มหาสารคาม",
+  "depot_code": 62201,
+  "depot_name": "หมวดทางหลวงโกสุมพิสัย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87063"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 622,
+  "dis_name": "ขท.มหาสารคาม",
+  "depot_code": 62202,
+  "depot_name": "หมวดทางหลวงเขวา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87064"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 622,
+  "dis_name": "ขท.มหาสารคาม",
+  "depot_code": 62203,
+  "depot_name": "หมวดทางหลวงบรบือ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87065"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 622,
+  "dis_name": "ขท.มหาสารคาม",
+  "depot_code": 62204,
+  "depot_name": "หมวดทางหลวงวาปีปทุม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87066"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 622,
+  "dis_name": "ขท.มหาสารคาม",
+  "depot_code": 62205,
+  "depot_name": "หมวดทางหลวงหนองปลิง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87067"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 622,
+  "dis_name": "ขท.มหาสารคาม",
+  "depot_code": 62207,
+  "depot_name": "หมวดทางหลวงกุดรัง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87068"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 633,
+  "dis_name": "ขท.ยโสธร",
+  "depot_code": 63301,
+  "depot_name": "หมวดทางหลวงยโสธร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87069"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 633,
+  "dis_name": "ขท.ยโสธร",
+  "depot_code": 63302,
+  "depot_name": "หมวดทางหลวงคำเขื่อนแก้ว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8706a"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 633,
+  "dis_name": "ขท.ยโสธร",
+  "depot_code": 63303,
+  "depot_name": "หมวดทางหลวงสุวรรณภูมิ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8706b"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 633,
+  "dis_name": "ขท.ยโสธร",
+  "depot_code": 63304,
+  "depot_name": "หมวดทางหลวงหนองพอก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8706c"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 633,
+  "dis_name": "ขท.ยโสธร",
+  "depot_code": 63305,
+  "depot_name": "หมวดทางหลวงอาจสามารถ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8706d"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 635,
+  "dis_name": "ขท.ร้อยเอ็ด",
+  "depot_code": 63501,
+  "depot_name": "หมวดทางหลวงร้อยเอ็ด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8706e"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 635,
+  "dis_name": "ขท.ร้อยเอ็ด",
+  "depot_code": 63502,
+  "depot_name": "หมวดทางหลวงจตุรพักตรพิมาน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8706f"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 635,
+  "dis_name": "ขท.ร้อยเอ็ด",
+  "depot_code": 63503,
+  "depot_name": "หมวดทางหลวงเสลภูมิ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87070"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 635,
+  "dis_name": "ขท.ร้อยเอ็ด",
+  "depot_code": 63504,
+  "depot_name": "หมวดทางหลวงเกษตรวิสัย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87071"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 635,
+  "dis_name": "ขท.ร้อยเอ็ด",
+  "depot_code": 63505,
+  "depot_name": "หมวดทางหลวงโพนทอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87072"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 635,
+  "dis_name": "ขท.ร้อยเอ็ด",
+  "depot_code": 63506,
+  "depot_name": "หมวดทางหลวงเมืองสรวง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87073"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 647,
+  "dis_name": "ขท.กาฬสินธุ์",
+  "depot_code": 64701,
+  "depot_name": "หมวดทางหลวงกาฬสินธุ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87074"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 647,
+  "dis_name": "ขท.กาฬสินธุ์",
+  "depot_code": 64702,
+  "depot_name": "หมวดทางหลวงสมเด็จ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87075"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 647,
+  "dis_name": "ขท.กาฬสินธุ์",
+  "depot_code": 64704,
+  "depot_name": "หมวดทางหลวงห้วยเม็ก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87076"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 647,
+  "dis_name": "ขท.กาฬสินธุ์",
+  "depot_code": 64705,
+  "depot_name": "หมวดทางหลวงยางตลาด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87077"
+  },
+  "division_code": 155,
+  "division_name": "สำนักงานทางหลวงที่ 8 (มหาสารคาม)",
+  "district_code": 647,
+  "dis_name": "ขท.กาฬสินธุ์",
+  "depot_code": 64706,
+  "depot_name": "หมวดทางหลวงร่องคำ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87078"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 615,
+  "dis_name": "ขท.สุรินทร์",
+  "depot_code": 61501,
+  "depot_name": "หมวดทางหลวงสุรินทร์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87079"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 615,
+  "dis_name": "ขท.สุรินทร์",
+  "depot_code": 61502,
+  "depot_name": "หมวดทางหลวงปราสาท"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8707a"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 615,
+  "dis_name": "ขท.สุรินทร์",
+  "depot_code": 61503,
+  "depot_name": "หมวดทางหลวงกาบเชิง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8707b"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 615,
+  "dis_name": "ขท.สุรินทร์",
+  "depot_code": 61504,
+  "depot_name": "หมวดทางหลวงศีขรภูมิ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8707c"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 615,
+  "dis_name": "ขท.สุรินทร์",
+  "depot_code": 61505,
+  "depot_name": "หมวดทางหลวงสังขะ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8707d"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 615,
+  "dis_name": "ขท.สุรินทร์",
+  "depot_code": 61506,
+  "depot_name": "หมวดทางหลวงท่าตูม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8707e"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 615,
+  "dis_name": "ขท.สุรินทร์",
+  "depot_code": 61507,
+  "depot_name": "หมวดทางหลวงบัวเชด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8707f"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 615,
+  "dis_name": "ขท.สุรินทร์",
+  "depot_code": 61508,
+  "depot_name": "หมวดทางหลวงชุมพลบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87080"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 631,
+  "dis_name": "ขท.อุบลราชธานีที่ 1",
+  "depot_code": 63101,
+  "depot_name": "หมวดทางหลวงวนารมย์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87081"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 631,
+  "dis_name": "ขท.อุบลราชธานีที่ 1",
+  "depot_code": 63102,
+  "depot_name": "หมวดทางหลวงหนองไฮ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87082"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 631,
+  "dis_name": "ขท.อุบลราชธานีที่ 1",
+  "depot_code": 63103,
+  "depot_name": "หมวดทางหลวงม่วงสามสิบ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87083"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 631,
+  "dis_name": "ขท.อุบลราชธานีที่ 1",
+  "depot_code": 63105,
+  "depot_name": "หมวดทางหลวงห้วยพับ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87084"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 631,
+  "dis_name": "ขท.อุบลราชธานีที่ 1",
+  "depot_code": 63106,
+  "depot_name": "หมวดทางหลวงเขื่องใน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87085"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 632,
+  "dis_name": "ขท.อุบลราชธานีที่ 2",
+  "depot_code": 63201,
+  "depot_name": "หมวดทางหลวงเดชอุดม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87086"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 632,
+  "dis_name": "ขท.อุบลราชธานีที่ 2",
+  "depot_code": 63202,
+  "depot_name": "หมวดทางหลวงพิบูลมังสาหาร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87087"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 632,
+  "dis_name": "ขท.อุบลราชธานีที่ 2",
+  "depot_code": 63203,
+  "depot_name": "หมวดทางหลวงบุณฑริก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87088"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 632,
+  "dis_name": "ขท.อุบลราชธานีที่ 2",
+  "depot_code": 63204,
+  "depot_name": "หมวดทางหลวงโขงเจียม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87089"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 632,
+  "dis_name": "ขท.อุบลราชธานีที่ 2",
+  "depot_code": 63205,
+  "depot_name": "หมวดทางหลวงวารินชำราบ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8708a"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 634,
+  "dis_name": "ขท.อำนาจเจริญ",
+  "depot_code": 63401,
+  "depot_name": "หมวดทางหลวงอำนาจเจริญ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8708b"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 634,
+  "dis_name": "ขท.อำนาจเจริญ",
+  "depot_code": 63402,
+  "depot_name": "หมวดทางหลวงลืออำนาจ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8708c"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 634,
+  "dis_name": "ขท.อำนาจเจริญ",
+  "depot_code": 63403,
+  "depot_name": "หมวดทางหลวงกุดข้าวปุ้น"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8708d"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 634,
+  "dis_name": "ขท.อำนาจเจริญ",
+  "depot_code": 63404,
+  "depot_name": "หมวดทางหลวงเขมราฐ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8708e"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 634,
+  "dis_name": "ขท.อำนาจเจริญ",
+  "depot_code": 63406,
+  "depot_name": "หมวดทางหลวงตระการพืชผล"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8708f"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 634,
+  "dis_name": "ขท.อำนาจเจริญ",
+  "depot_code": 63407,
+  "depot_name": "หมวดทางหลวงนาตาล"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87090"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 636,
+  "dis_name": "ขท.ศรีสะเกษที่ 2",
+  "depot_code": 63601,
+  "depot_name": "หมวดทางหลวงศรีรัตนะ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87091"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 636,
+  "dis_name": "ขท.ศรีสะเกษที่ 2",
+  "depot_code": 63602,
+  "depot_name": "หมวดทางหลวงไพรบึง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87092"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 636,
+  "dis_name": "ขท.ศรีสะเกษที่ 2",
+  "depot_code": 63603,
+  "depot_name": "หมวดทางหลวงกันทรลักษ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87093"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 636,
+  "dis_name": "ขท.ศรีสะเกษที่ 2",
+  "depot_code": 63604,
+  "depot_name": "หมวดทางหลวงน้ำขุ่น"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87094"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 636,
+  "dis_name": "ขท.ศรีสะเกษที่ 2",
+  "depot_code": 63605,
+  "depot_name": "หมวดทางหลวงภูเงิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87095"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 638,
+  "dis_name": "ขท.ศรีสะเกษที่ 1",
+  "depot_code": 63801,
+  "depot_name": "หมวดทางหลวงศรีสะเกษ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87096"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 638,
+  "dis_name": "ขท.ศรีสะเกษที่ 1",
+  "depot_code": 63802,
+  "depot_name": "หมวดทางหลวงอุทุมพรพิสัย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87097"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 638,
+  "dis_name": "ขท.ศรีสะเกษที่ 1",
+  "depot_code": 63803,
+  "depot_name": "หมวดทางหลวงราษีไศล"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87098"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 638,
+  "dis_name": "ขท.ศรีสะเกษที่ 1",
+  "depot_code": 63804,
+  "depot_name": "หมวดทางหลวงขุขันธ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87099"
+  },
+  "division_code": 630,
+  "division_name": "สำนักงานทางหลวงที่ 9 (อุบลราชธานี)",
+  "district_code": 638,
+  "dis_name": "ขท.ศรีสะเกษที่ 1",
+  "depot_code": 63805,
+  "depot_name": "หมวดทางหลวงภูสิงห์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8709a"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 611,
+  "dis_name": "ขท.นครราชสีมาที่ 1",
+  "depot_code": 61101,
+  "depot_name": "หมวดทางหลวงหนองบัวโคก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8709b"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 611,
+  "dis_name": "ขท.นครราชสีมาที่ 1",
+  "depot_code": 61102,
+  "depot_name": "หมวดทางหลวงนครราชสีมาที่1"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8709c"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 611,
+  "dis_name": "ขท.นครราชสีมาที่ 1",
+  "depot_code": 61103,
+  "depot_name": "หมวดทางหลวงโนนแดง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8709d"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 611,
+  "dis_name": "ขท.นครราชสีมาที่ 1",
+  "depot_code": 61104,
+  "depot_name": "หมวดทางหลวงโนนไทย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8709e"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 611,
+  "dis_name": "ขท.นครราชสีมาที่ 1",
+  "depot_code": 61105,
+  "depot_name": "หมวดทางหลวงโนนสูง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8709f"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 611,
+  "dis_name": "ขท.นครราชสีมาที่ 1",
+  "depot_code": 61106,
+  "depot_name": "หมวดทางหลวงสีดา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870a0"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 611,
+  "dis_name": "ขท.นครราชสีมาที่ 1",
+  "depot_code": 61107,
+  "depot_name": "หมวดทางหลวงชุมพวง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870a1"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 612,
+  "dis_name": "ขท.นครราชสีมาที่ 2",
+  "depot_code": 61201,
+  "depot_name": "หมวดทางหลวงนครราชสีมาที่2"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870a2"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 612,
+  "dis_name": "ขท.นครราชสีมาที่ 2",
+  "depot_code": 61202,
+  "depot_name": "หมวดทางหลวงสูงเนิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870a3"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 612,
+  "dis_name": "ขท.นครราชสีมาที่ 2",
+  "depot_code": 61203,
+  "depot_name": "หมวดทางหลวงด่านขุนทด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870a4"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 612,
+  "dis_name": "ขท.นครราชสีมาที่ 2",
+  "depot_code": 61204,
+  "depot_name": "หมวดทางหลวงสีคิ้ว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870a5"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 612,
+  "dis_name": "ขท.นครราชสีมาที่ 2",
+  "depot_code": 61205,
+  "depot_name": "หมวดทางหลวงปากช่องที่ 1"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870a6"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 612,
+  "dis_name": "ขท.นครราชสีมาที่ 2",
+  "depot_code": 61206,
+  "depot_name": "หมวดทางหลวงปากช่องที่2"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870a7"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 612,
+  "dis_name": "ขท.นครราชสีมาที่ 2",
+  "depot_code": 61207,
+  "depot_name": "หมวดทางหลวงกลางดง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870a8"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 614,
+  "dis_name": "ขท.นครราชสีมาที่ 3",
+  "depot_code": 61401,
+  "depot_name": "หมวดทางหลวงหลุมเงิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870a9"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 614,
+  "dis_name": "ขท.นครราชสีมาที่ 3",
+  "depot_code": 61402,
+  "depot_name": "หมวดทางหลวงโชคชัย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870aa"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 614,
+  "dis_name": "ขท.นครราชสีมาที่ 3",
+  "depot_code": 61403,
+  "depot_name": "หมวดทางหลวงหนองบุญมาก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ab"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 614,
+  "dis_name": "ขท.นครราชสีมาที่ 3",
+  "depot_code": 61404,
+  "depot_name": "หมวดทางหลวงเฉลิมพระเกียรติ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ac"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 614,
+  "dis_name": "ขท.นครราชสีมาที่ 3",
+  "depot_code": 61405,
+  "depot_name": "หมวดทางหลวงครบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ad"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 614,
+  "dis_name": "ขท.นครราชสีมาที่ 3",
+  "depot_code": 61406,
+  "depot_name": "หมวดทางหลวงธงชัยเหนือ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ae"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 617,
+  "dis_name": "ขท.บุรีรัมย์",
+  "depot_code": 61701,
+  "depot_name": "หมวดทางหลวงบุรีรัมย์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870af"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 617,
+  "dis_name": "ขท.บุรีรัมย์",
+  "depot_code": 61702,
+  "depot_name": "หมวดทางหลวงสะแกโพรง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870b0"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 617,
+  "dis_name": "ขท.บุรีรัมย์",
+  "depot_code": 61703,
+  "depot_name": "หมวดทางหลวงบ้านด่าน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870b1"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 617,
+  "dis_name": "ขท.บุรีรัมย์",
+  "depot_code": 61704,
+  "depot_name": "หมวดทางหลวงลำปลายมาศ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870b2"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 617,
+  "dis_name": "ขท.บุรีรัมย์",
+  "depot_code": 61705,
+  "depot_name": "หมวดทางหลวงนางรอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870b3"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 617,
+  "dis_name": "ขท.บุรีรัมย์",
+  "depot_code": 61706,
+  "depot_name": "หมวดทางหลวงประโคนชัย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870b4"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 617,
+  "dis_name": "ขท.บุรีรัมย์",
+  "depot_code": 61707,
+  "depot_name": "หมวดทางหลวงพุทไธสง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870b5"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 617,
+  "dis_name": "ขท.บุรีรัมย์",
+  "depot_code": 61708,
+  "depot_name": "หมวดทางหลวงหนองกี่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870b6"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 617,
+  "dis_name": "ขท.บุรีรัมย์",
+  "depot_code": 61709,
+  "depot_name": "หมวดทางหลวงบ้านกรวด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870b7"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 618,
+  "dis_name": "ขท.ปราจีนบุรี",
+  "depot_code": 61801,
+  "depot_name": "หมวดทางหลวงปราจีนบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870b8"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 618,
+  "dis_name": "ขท.ปราจีนบุรี",
+  "depot_code": 61802,
+  "depot_name": "หมวดทางหลวงเนินหอม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870b9"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 618,
+  "dis_name": "ขท.ปราจีนบุรี",
+  "depot_code": 61803,
+  "depot_name": "หมวดทางหลวงประจันตคาม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ba"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 618,
+  "dis_name": "ขท.ปราจีนบุรี",
+  "depot_code": 61804,
+  "depot_name": "หมวดทางหลวงบ้านสร้าง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870bb"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 618,
+  "dis_name": "ขท.ปราจีนบุรี",
+  "depot_code": 61805,
+  "depot_name": "หมวดทางหลวงศรีมหาโพธิ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870bc"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 618,
+  "dis_name": "ขท.ปราจีนบุรี",
+  "depot_code": 61806,
+  "depot_name": "หมวดทางหลวงกบินทร์บุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870bd"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 619,
+  "dis_name": "ขท.สระแก้ว (วัฒนานคร)",
+  "depot_code": 61901,
+  "depot_name": "หมวดทางหลวงวัฒนานคร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870be"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 619,
+  "dis_name": "ขท.สระแก้ว (วัฒนานคร)",
+  "depot_code": 61902,
+  "depot_name": "หมวดทางหลวงหนองน้ำใส"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870bf"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 619,
+  "dis_name": "ขท.สระแก้ว (วัฒนานคร)",
+  "depot_code": 61903,
+  "depot_name": "หมวดทางหลวงอรัญประเทศ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870c0"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 619,
+  "dis_name": "ขท.สระแก้ว (วัฒนานคร)",
+  "depot_code": 61904,
+  "depot_name": "หมวดทางหลวงหนองสังข์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870c1"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 619,
+  "dis_name": "ขท.สระแก้ว (วัฒนานคร)",
+  "depot_code": 61905,
+  "depot_name": "หมวดทางหลวงทับพริก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870c2"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 619,
+  "dis_name": "ขท.สระแก้ว (วัฒนานคร)",
+  "depot_code": 61906,
+  "depot_name": "หมวดทางหลวงเขาฉกรรจ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870c3"
+  },
+  "division_code": 610,
+  "division_name": "สำนักงานทางหลวงที่ 10 (นครราชสีมา)",
+  "district_code": 619,
+  "dis_name": "ขท.สระแก้ว (วัฒนานคร)",
+  "depot_code": 61907,
+  "depot_name": "หมวดทางหลวงตาพระยา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870c4"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 431,
+  "dis_name": "ขท.ลพบุรีที่ 1",
+  "depot_code": 43101,
+  "depot_name": "หมวดทางหลวงลพบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870c5"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 431,
+  "dis_name": "ขท.ลพบุรีที่ 1",
+  "depot_code": 43102,
+  "depot_name": "หมวดทางหลวงโคกตูม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870c6"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 431,
+  "dis_name": "ขท.ลพบุรีที่ 1",
+  "depot_code": 43103,
+  "depot_name": "หมวดทางหลวงเขาพระงาม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870c7"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 431,
+  "dis_name": "ขท.ลพบุรีที่ 1",
+  "depot_code": 43104,
+  "depot_name": "หมวดทางหลวงพัฒนานิคม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870c8"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 431,
+  "dis_name": "ขท.ลพบุรีที่ 1",
+  "depot_code": 43105,
+  "depot_name": "หมวดทางหลวงโคกสำโรง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870c9"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 431,
+  "dis_name": "ขท.ลพบุรีที่ 1",
+  "depot_code": 43106,
+  "depot_name": "หมวดทางหลวงหนองม่วง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ca"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 432,
+  "dis_name": "ขท.สระบุรี",
+  "depot_code": 43201,
+  "depot_name": "หมวดทางหลวงเฉลิมพระเกียรติ (สระบุรี)"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870cb"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 432,
+  "dis_name": "ขท.สระบุรี",
+  "depot_code": 43202,
+  "depot_name": "หมวดทางหลวงสระบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870cc"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 432,
+  "dis_name": "ขท.สระบุรี",
+  "depot_code": 43203,
+  "depot_name": "หมวดทางหลวงหนองแค"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870cd"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 432,
+  "dis_name": "ขท.สระบุรี",
+  "depot_code": 43204,
+  "depot_name": "หมวดทางหลวงหินกอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ce"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 432,
+  "dis_name": "ขท.สระบุรี",
+  "depot_code": 43205,
+  "depot_name": "หมวดทางหลวงพระพุทธบาท"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870cf"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 432,
+  "dis_name": "ขท.สระบุรี",
+  "depot_code": 43206,
+  "depot_name": "หมวดทางหลวงแก่งคอย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870d0"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 432,
+  "dis_name": "ขท.สระบุรี",
+  "depot_code": 43207,
+  "depot_name": "หมวดทางหลวงมวกเหล็ก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870d1"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 433,
+  "dis_name": "ขท.สิงห์บุรี",
+  "depot_code": 43301,
+  "depot_name": "หมวดทางหลวงพรหมบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870d2"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 433,
+  "dis_name": "ขท.สิงห์บุรี",
+  "depot_code": 43302,
+  "depot_name": "หมวดทางหลวงอินทร์บุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870d3"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 433,
+  "dis_name": "ขท.สิงห์บุรี",
+  "depot_code": 43303,
+  "depot_name": "หมวดทางหลวงค่ายบางระจัน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870d4"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 433,
+  "dis_name": "ขท.สิงห์บุรี",
+  "depot_code": 43304,
+  "depot_name": "หมวดทางหลวงสิงห์บุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870d5"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 435,
+  "dis_name": "ขท.ลพบุรีที่ 2 (ลำนารายณ์)",
+  "depot_code": 43501,
+  "depot_name": "หมวดทางหลวงลำนารายณ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870d6"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 435,
+  "dis_name": "ขท.ลพบุรีที่ 2 (ลำนารายณ์)",
+  "depot_code": 43502,
+  "depot_name": "หมวดทางหลวงบัวชุม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870d7"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 435,
+  "dis_name": "ขท.ลพบุรีที่ 2 (ลำนารายณ์)",
+  "depot_code": 43503,
+  "depot_name": "หมวดทางหลวงท่าหลวง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870d8"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 435,
+  "dis_name": "ขท.ลพบุรีที่ 2 (ลำนารายณ์)",
+  "depot_code": 43504,
+  "depot_name": "หมวดทางหลวงลำพญาไม้"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870d9"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 435,
+  "dis_name": "ขท.ลพบุรีที่ 2 (ลำนารายณ์)",
+  "depot_code": 43505,
+  "depot_name": "หมวดทางหลวงโคกเจริญ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870da"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 435,
+  "dis_name": "ขท.ลพบุรีที่ 2 (ลำนารายณ์)",
+  "depot_code": 43506,
+  "depot_name": "หมวดทางหลวงหนองย่างเสือ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870db"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 437,
+  "dis_name": "ขท.นครสวรรค์ที่ 1",
+  "depot_code": 43701,
+  "depot_name": "หมวดทางหลวงนครสวรรค์ที่ 1"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870dc"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 437,
+  "dis_name": "ขท.นครสวรรค์ที่ 1",
+  "depot_code": 43702,
+  "depot_name": "หมวดทางหลวงนครสวรรค์ที่ 2"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870dd"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 437,
+  "dis_name": "ขท.นครสวรรค์ที่ 1",
+  "depot_code": 43703,
+  "depot_name": "หมวดทางหลวงพยุหะคีรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870de"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 437,
+  "dis_name": "ขท.นครสวรรค์ที่ 1",
+  "depot_code": 43704,
+  "depot_name": "หมวดทางหลวงบางตาหงาย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870df"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 437,
+  "dis_name": "ขท.นครสวรรค์ที่ 1",
+  "depot_code": 43705,
+  "depot_name": "หมวดทางหลวงบ้านแดน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870e0"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 437,
+  "dis_name": "ขท.นครสวรรค์ที่ 1",
+  "depot_code": 43706,
+  "depot_name": "หมวดทางหลวงแม่วงก์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870e1"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 438,
+  "dis_name": "ขท.นครสวรรค์ที่ 2 (ตากฟ้า)",
+  "depot_code": 43801,
+  "depot_name": "หมวดทางหลวงสุขสำราญ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870e2"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 438,
+  "dis_name": "ขท.นครสวรรค์ที่ 2 (ตากฟ้า)",
+  "depot_code": 43802,
+  "depot_name": "หมวดทางหลวงลำพยนต์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870e3"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 438,
+  "dis_name": "ขท.นครสวรรค์ที่ 2 (ตากฟ้า)",
+  "depot_code": 43803,
+  "depot_name": "หมวดทางหลวงตาคลี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870e4"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 438,
+  "dis_name": "ขท.นครสวรรค์ที่ 2 (ตากฟ้า)",
+  "depot_code": 43804,
+  "depot_name": "หมวดทางหลวงไพศาลี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870e5"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 438,
+  "dis_name": "ขท.นครสวรรค์ที่ 2 (ตากฟ้า)",
+  "depot_code": 43805,
+  "depot_name": "หมวดทางหลวงท่าตะโก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870e6"
+  },
+  "division_code": 430,
+  "division_name": "สำนักงานทางหลวงที่ 11 (ลพบุรี)",
+  "district_code": 438,
+  "dis_name": "ขท.นครสวรรค์ที่ 2 (ตากฟ้า)",
+  "depot_code": 43806,
+  "depot_name": "หมวดทางหลวงหนองบัว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870e7"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 441,
+  "dis_name": "ขท.สุพรรณบุรีที่ 1",
+  "depot_code": 44101,
+  "depot_name": "หมวดทางหลวงสุพรรณบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870e8"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 441,
+  "dis_name": "ขท.สุพรรณบุรีที่ 1",
+  "depot_code": 44102,
+  "depot_name": "หมวดทางหลวงบางปลาม้า"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870e9"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 441,
+  "dis_name": "ขท.สุพรรณบุรีที่ 1",
+  "depot_code": 44103,
+  "depot_name": "หมวดทางหลวงดอนเจดีย์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ea"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 441,
+  "dis_name": "ขท.สุพรรณบุรีที่ 1",
+  "depot_code": 44104,
+  "depot_name": "หมวดทางหลวงศรีประจันต์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870eb"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 441,
+  "dis_name": "ขท.สุพรรณบุรีที่ 1",
+  "depot_code": 44105,
+  "depot_name": "หมวดทางหลวงเดิมบางนางบวช"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ec"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 441,
+  "dis_name": "ขท.สุพรรณบุรีที่ 1",
+  "depot_code": 44106,
+  "depot_name": "หมวดทางหลวงด่านช้าง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ed"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 444,
+  "dis_name": "ขท.กาญจนบุรี",
+  "depot_code": 44401,
+  "depot_name": "หมวดทางหลวงปากแพรก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ee"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 444,
+  "dis_name": "ขท.กาญจนบุรี",
+  "depot_code": 44402,
+  "depot_name": "หมวดทางหลวงลาดหญ้า"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ef"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 444,
+  "dis_name": "ขท.กาญจนบุรี",
+  "depot_code": 44403,
+  "depot_name": "หมวดทางหลวงหนองบัว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870f0"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 444,
+  "dis_name": "ขท.กาญจนบุรี",
+  "depot_code": 44404,
+  "depot_name": "หมวดทางหลวงด่านมะขามเตี้ย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870f1"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 444,
+  "dis_name": "ขท.กาญจนบุรี",
+  "depot_code": 44405,
+  "depot_name": "หมวดทางหลวงท่ามะกา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870f2"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 444,
+  "dis_name": "ขท.กาญจนบุรี",
+  "depot_code": 44406,
+  "depot_name": "หมวดทางหลวงไทรโยค"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870f3"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 444,
+  "dis_name": "ขท.กาญจนบุรี",
+  "depot_code": 44407,
+  "depot_name": "หมวดทางหลวงท่าม่วง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870f4"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 444,
+  "dis_name": "ขท.กาญจนบุรี",
+  "depot_code": 44408,
+  "depot_name": "หมวดทางหลวงศรีสวัสดิ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870f5"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 444,
+  "dis_name": "ขท.กาญจนบุรี",
+  "depot_code": 44409,
+  "depot_name": "หมวดทางหลวงทองผาภูมิ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870f6"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 444,
+  "dis_name": "ขท.กาญจนบุรี",
+  "depot_code": 44410,
+  "depot_name": "หมวดทางหลวงสังขละบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870f7"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 445,
+  "dis_name": "ขท.สุพรรณบุรีที่ 2 (อู่ทอง)",
+  "depot_code": 44501,
+  "depot_name": "หมวดทางหลวงอู่ทอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870f8"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 445,
+  "dis_name": "ขท.สุพรรณบุรีที่ 2 (อู่ทอง)",
+  "depot_code": 44502,
+  "depot_name": "หมวดทางหลวงสระยายโสม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870f9"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 445,
+  "dis_name": "ขท.สุพรรณบุรีที่ 2 (อู่ทอง)",
+  "depot_code": 44503,
+  "depot_name": "หมวดทางหลวงพนมทวน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870fa"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 445,
+  "dis_name": "ขท.สุพรรณบุรีที่ 2 (อู่ทอง)",
+  "depot_code": 44504,
+  "depot_name": "หมวดทางหลวงบ่อพลอย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870fb"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 445,
+  "dis_name": "ขท.สุพรรณบุรีที่ 2 (อู่ทอง)",
+  "depot_code": 44505,
+  "depot_name": "หมวดทางหลวงสองพี่น้อง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870fc"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 445,
+  "dis_name": "ขท.สุพรรณบุรีที่ 2 (อู่ทอง)",
+  "depot_code": 44506,
+  "depot_name": "หมวดทางหลวงเลาขวัญ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870fd"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 445,
+  "dis_name": "ขท.สุพรรณบุรีที่ 2 (อู่ทอง)",
+  "depot_code": 44507,
+  "depot_name": "หมวดทางหลวงทุ่งคอก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870fe"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 446,
+  "dis_name": "ขท.ชัยนาท",
+  "depot_code": 44601,
+  "depot_name": "หมวดทางหลวงชัยนาท"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d870ff"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 446,
+  "dis_name": "ขท.ชัยนาท",
+  "depot_code": 44602,
+  "depot_name": "หมวดทางหลวงสรรคบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87100"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 446,
+  "dis_name": "ขท.ชัยนาท",
+  "depot_code": 44603,
+  "depot_name": "หมวดทางหลวงสรรพยา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87101"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 446,
+  "dis_name": "ขท.ชัยนาท",
+  "depot_code": 44604,
+  "depot_name": "หมวดทางหลวงเนินขาม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87102"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 447,
+  "dis_name": "ขท.อุทัยธานี",
+  "depot_code": 44701,
+  "depot_name": "หมวดทางหลวงอุทัยธานี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87103"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 447,
+  "dis_name": "ขท.อุทัยธานี",
+  "depot_code": 44702,
+  "depot_name": "หมวดทางหลวงหนองฉาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87104"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 447,
+  "dis_name": "ขท.อุทัยธานี",
+  "depot_code": 44703,
+  "depot_name": "หมวดทางหลวงสว่างอารมณ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87105"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 447,
+  "dis_name": "ขท.อุทัยธานี",
+  "depot_code": 44704,
+  "depot_name": "หมวดทางหลวงลานสัก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87106"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 447,
+  "dis_name": "ขท.อุทัยธานี",
+  "depot_code": 44705,
+  "depot_name": "หมวดทางหลวงบ้านไร่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87107"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 448,
+  "dis_name": "ขท.อ่างทอง",
+  "depot_code": 44801,
+  "depot_name": "หมวดทางหลวงบางปะหัน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87108"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 448,
+  "dis_name": "ขท.อ่างทอง",
+  "depot_code": 44802,
+  "depot_name": "หมวดทางหลวงป่าโมก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87109"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 448,
+  "dis_name": "ขท.อ่างทอง",
+  "depot_code": 44803,
+  "depot_name": "หมวดทางหลวงโพธิ์ทอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8710a"
+  },
+  "division_code": 440,
+  "division_name": "สำนักงานทางหลวงที่ 12 (สุพรรณบุรี)",
+  "district_code": 448,
+  "dis_name": "ขท.อ่างทอง",
+  "depot_code": 44804,
+  "depot_name": "หมวดทางหลวงอ่างทอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8710b"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 411,
+  "dis_name": "ขท.กรุงเทพ",
+  "depot_code": 41101,
+  "depot_name": "หมวดทางหลวงดอนเมือง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8710c"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 411,
+  "dis_name": "ขท.กรุงเทพ",
+  "depot_code": 41102,
+  "depot_name": "หมวดทางหลวงหลักสี่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8710d"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 411,
+  "dis_name": "ขท.กรุงเทพ",
+  "depot_code": 41103,
+  "depot_name": "หมวดทางหลวงสุทธิสาร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8710e"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 411,
+  "dis_name": "ขท.กรุงเทพ",
+  "depot_code": 41104,
+  "depot_name": "หมวดทางหลวงรามอินทรา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8710f"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 411,
+  "dis_name": "ขท.กรุงเทพ",
+  "depot_code": 41105,
+  "depot_name": "หมวดทางหลวงร่มเกล้า"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87110"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 411,
+  "dis_name": "ขท.กรุงเทพ",
+  "depot_code": 41106,
+  "depot_name": "หมวดทางหลวงสะพานสูง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87111"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 411,
+  "dis_name": "ขท.กรุงเทพ",
+  "depot_code": 41107,
+  "depot_name": "หมวดทางหลวงลำลูกกา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87112"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 413,
+  "dis_name": "ขท.อยุธยา",
+  "depot_code": 41301,
+  "depot_name": "หมวดทางหลวงพระนครศรีอยุธยาที่ 1"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87113"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 413,
+  "dis_name": "ขท.อยุธยา",
+  "depot_code": 41302,
+  "depot_name": "หมวดทางหลวงนครหลวง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87114"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 413,
+  "dis_name": "ขท.อยุธยา",
+  "depot_code": 41303,
+  "depot_name": "หมวดทางหลวงบางปะอิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87115"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 413,
+  "dis_name": "ขท.อยุธยา",
+  "depot_code": 41304,
+  "depot_name": "หมวดทางหลวงเสนา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87116"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 413,
+  "dis_name": "ขท.อยุธยา",
+  "depot_code": 41305,
+  "depot_name": "หมวดทางหลวงวังน้อย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87117"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 413,
+  "dis_name": "ขท.อยุธยา",
+  "depot_code": 41306,
+  "depot_name": "หมวดทางหลวงพระนครศรีอยุธยาที่2"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87118"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 414,
+  "dis_name": "ขท.นครนายก",
+  "depot_code": 41401,
+  "depot_name": "หมวดทางหลวงองครักษ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87119"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 414,
+  "dis_name": "ขท.นครนายก",
+  "depot_code": 41402,
+  "depot_name": "หมวดทางหลวงบ้านนา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8711a"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 414,
+  "dis_name": "ขท.นครนายก",
+  "depot_code": 41403,
+  "depot_name": "หมวดทางหลวงปากพลี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8711b"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 414,
+  "dis_name": "ขท.นครนายก",
+  "depot_code": 41404,
+  "depot_name": "หมวดทางหลวงหนองเสือ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8711c"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 414,
+  "dis_name": "ขท.นครนายก",
+  "depot_code": 41405,
+  "depot_name": "หมวดทางหลวงบางอ้อ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8711d"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 415,
+  "dis_name": "ขท.สมุทรสาคร",
+  "depot_code": 41501,
+  "depot_name": "หมวดทางหลวงพุทธมณฑล"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8711e"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 415,
+  "dis_name": "ขท.สมุทรสาคร",
+  "depot_code": 41502,
+  "depot_name": "หมวดทางหลวงเศรษฐกิจ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8711f"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 415,
+  "dis_name": "ขท.สมุทรสาคร",
+  "depot_code": 41503,
+  "depot_name": "หมวดทางหลวงนครชัยศรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87120"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 415,
+  "dis_name": "ขท.สมุทรสาคร",
+  "depot_code": 41504,
+  "depot_name": "หมวดทางหลวงมหาชัย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87121"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 415,
+  "dis_name": "ขท.สมุทรสาคร",
+  "depot_code": 41505,
+  "depot_name": "หมวดทางหลวงบางโทรัด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87122"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 416,
+  "dis_name": "ขท.ปทุมธานี",
+  "depot_code": 41601,
+  "depot_name": "หมวดทางหลวงนวนคร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87123"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 416,
+  "dis_name": "ขท.ปทุมธานี",
+  "depot_code": 41602,
+  "depot_name": "หมวดทางหลวงรังสิต"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87124"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 416,
+  "dis_name": "ขท.ปทุมธานี",
+  "depot_code": 41603,
+  "depot_name": "หมวดทางหลวงปทุมธานี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87125"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 416,
+  "dis_name": "ขท.ปทุมธานี",
+  "depot_code": 41604,
+  "depot_name": "หมวดทางหลวงลาดหลุมแก้ว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87126"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 416,
+  "dis_name": "ขท.ปทุมธานี",
+  "depot_code": 41605,
+  "depot_name": "หมวดทางหลวงธัญบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87127"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 417,
+  "dis_name": "ขท.สมุทรปราการ",
+  "depot_code": 41701,
+  "depot_name": "หมวดทางหลวงบางนา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87128"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 417,
+  "dis_name": "ขท.สมุทรปราการ",
+  "depot_code": 41702,
+  "depot_name": "หมวดทางหลวงศรีนครินทร์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87129"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 417,
+  "dis_name": "ขท.สมุทรปราการ",
+  "depot_code": 41703,
+  "depot_name": "หมวดทางหลวงสมุทรปราการ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8712a"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 417,
+  "dis_name": "ขท.สมุทรปราการ",
+  "depot_code": 41704,
+  "depot_name": "หมวดทางหลวงพระสมุทรเจดีย์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8712b"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 417,
+  "dis_name": "ขท.สมุทรปราการ",
+  "depot_code": 41705,
+  "depot_name": "หมวดทางหลวงบางปู"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8712c"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 417,
+  "dis_name": "ขท.สมุทรปราการ",
+  "depot_code": 41706,
+  "depot_name": "หมวดทางหลวงบางพลี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8712d"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 418,
+  "dis_name": "ขท.นนทบุรี",
+  "depot_code": 41801,
+  "depot_name": "หมวดทางหลวงนนทบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8712e"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 418,
+  "dis_name": "ขท.นนทบุรี",
+  "depot_code": 41802,
+  "depot_name": "หมวดทางหลวงบางใหญ่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8712f"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 418,
+  "dis_name": "ขท.นนทบุรี",
+  "depot_code": 41803,
+  "depot_name": "หมวดทางหลวงไทรน้อย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87130"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 418,
+  "dis_name": "ขท.นนทบุรี",
+  "depot_code": 41804,
+  "depot_name": "หมวดทางหลวงบางบัวทอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87131"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 419,
+  "dis_name": "ขท.ธนบุรี",
+  "depot_code": 41901,
+  "depot_name": "หมวดทางหลวงตลิ่งชัน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87132"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 419,
+  "dis_name": "ขท.ธนบุรี",
+  "depot_code": 41902,
+  "depot_name": "หมวดทางหลวงบางแค"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87133"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 419,
+  "dis_name": "ขท.ธนบุรี",
+  "depot_code": 41903,
+  "depot_name": "หมวดทางหลวงแสมดำ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87134"
+  },
+  "division_code": 410,
+  "division_name": "สำนักงานทางหลวงที่ 13 (กรุงเทพ)",
+  "district_code": 419,
+  "dis_name": "ขท.ธนบุรี",
+  "depot_code": 41904,
+  "depot_name": "หมวดทางหลวงบางขุนเทียน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87135"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 421,
+  "dis_name": "ขท.ฉะเชิงเทรา",
+  "depot_code": 42101,
+  "depot_name": "หมวดทางหลวงบ้านโพธิ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87136"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 421,
+  "dis_name": "ขท.ฉะเชิงเทรา",
+  "depot_code": 42102,
+  "depot_name": "หมวดทางหลวงบางคล้า"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87137"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 421,
+  "dis_name": "ขท.ฉะเชิงเทรา",
+  "depot_code": 42103,
+  "depot_name": "หมวดทางหลวงสิบเอ็ดศอก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87138"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 421,
+  "dis_name": "ขท.ฉะเชิงเทรา",
+  "depot_code": 42104,
+  "depot_name": "หมวดทางหลวงบางปะกง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87139"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 421,
+  "dis_name": "ขท.ฉะเชิงเทรา",
+  "depot_code": 42105,
+  "depot_name": "หมวดทางหลวงพนมสารคาม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8713a"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 422,
+  "dis_name": "ขท.ชลบุรีที่ 1",
+  "depot_code": 42201,
+  "depot_name": "หมวดทางหลวงหนองไม้แดงที่1"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8713b"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 422,
+  "dis_name": "ขท.ชลบุรีที่ 1",
+  "depot_code": 42202,
+  "depot_name": "หมวดทางหลวงหนองไม้แดงที่2"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8713c"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 422,
+  "dis_name": "ขท.ชลบุรีที่ 1",
+  "depot_code": 42203,
+  "depot_name": "หมวดทางหลวงบ้านบึง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8713d"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 422,
+  "dis_name": "ขท.ชลบุรีที่ 1",
+  "depot_code": 42204,
+  "depot_name": "หมวดทางหลวงพนัสนิคม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8713e"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 422,
+  "dis_name": "ขท.ชลบุรีที่ 1",
+  "depot_code": 42205,
+  "depot_name": "หมวดทางหลวงหนองใหญ่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8713f"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 423,
+  "dis_name": "ขท.จันทบุรี",
+  "depot_code": 42301,
+  "depot_name": "หมวดทางหลวงพลับพลา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87140"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 423,
+  "dis_name": "ขท.จันทบุรี",
+  "depot_code": 42302,
+  "depot_name": "หมวดทางหลวงบางกะจะ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87141"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 423,
+  "dis_name": "ขท.จันทบุรี",
+  "depot_code": 42303,
+  "depot_name": "หมวดทางหลวงท่าใหม่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87142"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 423,
+  "dis_name": "ขท.จันทบุรี",
+  "depot_code": 42305,
+  "depot_name": "หมวดทางหลวงทับไทร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87143"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 423,
+  "dis_name": "ขท.จันทบุรี",
+  "depot_code": 42306,
+  "depot_name": "หมวดทางหลวงเขาคิชฌกูฎ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87144"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 423,
+  "dis_name": "ขท.จันทบุรี",
+  "depot_code": 42307,
+  "depot_name": "หมวดทางหลวงหนองตาคง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87145"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 423,
+  "dis_name": "ขท.จันทบุรี",
+  "depot_code": 42308,
+  "depot_name": "หมวดทางหลวงสอยดาว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87146"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 425,
+  "dis_name": "ขท.ตราด",
+  "depot_code": 42501,
+  "depot_name": "หมวดทางหลวงวังกระแจะ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87147"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 425,
+  "dis_name": "ขท.ตราด",
+  "depot_code": 42502,
+  "depot_name": "หมวดทางหลวงด่านชุมพล"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87148"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 425,
+  "dis_name": "ขท.ตราด",
+  "depot_code": 42503,
+  "depot_name": "หมวดทางหลวงช้างทูน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87149"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 425,
+  "dis_name": "ขท.ตราด",
+  "depot_code": 42504,
+  "depot_name": "หมวดทางหลวงแหลมกลัด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8714a"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 425,
+  "dis_name": "ขท.ตราด",
+  "depot_code": 42505,
+  "depot_name": "หมวดทางหลวงขลุง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8714b"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 426,
+  "dis_name": "ขท.ระยอง",
+  "depot_code": 42601,
+  "depot_name": "หมวดทางหลวงเชิงเนิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8714c"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 426,
+  "dis_name": "ขท.ระยอง",
+  "depot_code": 42602,
+  "depot_name": "หมวดทางหลวงทับมา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8714d"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 426,
+  "dis_name": "ขท.ระยอง",
+  "depot_code": 42603,
+  "depot_name": "หมวดทางหลวงบ้านฉาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8714e"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 426,
+  "dis_name": "ขท.ระยอง",
+  "depot_code": 42604,
+  "depot_name": "หมวดทางหลวงปลวกแดง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8714f"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 426,
+  "dis_name": "ขท.ระยอง",
+  "depot_code": 42605,
+  "depot_name": "หมวดทางหลวงแกลง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87150"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 426,
+  "dis_name": "ขท.ระยอง",
+  "depot_code": 42606,
+  "depot_name": "หมวดทางหลวงวังจันทร์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87151"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 428,
+  "dis_name": "ขท.ชลบุรีที่ 2",
+  "depot_code": 42801,
+  "depot_name": "หมวดทางหลวงบางแสน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87152"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 428,
+  "dis_name": "ขท.ชลบุรีที่ 2",
+  "depot_code": 42802,
+  "depot_name": "หมวดทางหลวงบางละมุง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87153"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 428,
+  "dis_name": "ขท.ชลบุรีที่ 2",
+  "depot_code": 42803,
+  "depot_name": "หมวดทางหลวงเขาไม้แก้ว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87154"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 428,
+  "dis_name": "ขท.ชลบุรีที่ 2",
+  "depot_code": 42804,
+  "depot_name": "หมวดทางหลวงสัตหีบ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87155"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 428,
+  "dis_name": "ขท.ชลบุรีที่ 2",
+  "depot_code": 42805,
+  "depot_name": "หมวดทางหลวงเขาเขียว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87156"
+  },
+  "division_code": 420,
+  "division_name": "สำนักงานทางหลวงที่ 14 (ชลบุรี)",
+  "district_code": 428,
+  "dis_name": "ขท.ชลบุรีที่ 2",
+  "depot_code": 42806,
+  "depot_name": "หมวดทางหลวงเขาคันทรง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87157"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 332,
+  "dis_name": "ขท.ชุมพร",
+  "depot_code": 33201,
+  "depot_name": "หมวดทางหลวงชุมพร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87158"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 332,
+  "dis_name": "ขท.ชุมพร",
+  "depot_code": 33202,
+  "depot_name": "หมวดทางหลวงสวี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87159"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 332,
+  "dis_name": "ขท.ชุมพร",
+  "depot_code": 33203,
+  "depot_name": "หมวดทางหลวงท่าแซะ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8715a"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 332,
+  "dis_name": "ขท.ชุมพร",
+  "depot_code": 33204,
+  "depot_name": "หมวดทางหลวงปะทิว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8715b"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 332,
+  "dis_name": "ขท.ชุมพร",
+  "depot_code": 33205,
+  "depot_name": "หมวดทางหลวงหลังสวน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8715c"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 333,
+  "dis_name": "ขท.ประจวบคีรีขันธ์ (หัวหิน)",
+  "depot_code": 33301,
+  "depot_name": "หมวดทางหลวงหัวหิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8715d"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 333,
+  "dis_name": "ขท.ประจวบคีรีขันธ์ (หัวหิน)",
+  "depot_code": 33302,
+  "depot_name": "หมวดทางหลวงปราณบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8715e"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 333,
+  "dis_name": "ขท.ประจวบคีรีขันธ์ (หัวหิน)",
+  "depot_code": 33303,
+  "depot_name": "หมวดทางหลวงประจวบคีรีขันธ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8715f"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 333,
+  "dis_name": "ขท.ประจวบคีรีขันธ์ (หัวหิน)",
+  "depot_code": 33304,
+  "depot_name": "หมวดทางหลวงทับสะแก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87160"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 333,
+  "dis_name": "ขท.ประจวบคีรีขันธ์ (หัวหิน)",
+  "depot_code": 33305,
+  "depot_name": "หมวดทางหลวงบางสะพาน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87161"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 335,
+  "dis_name": "ขท.ราชบุรี",
+  "depot_code": 33501,
+  "depot_name": "หมวดทางหลวงบ้านโป่ง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87162"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 335,
+  "dis_name": "ขท.ราชบุรี",
+  "depot_code": 33502,
+  "depot_name": "หมวดทางหลวงโพธาราม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87163"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 335,
+  "dis_name": "ขท.ราชบุรี",
+  "depot_code": 33504,
+  "depot_name": "หมวดทางหลวงราชบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87164"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 335,
+  "dis_name": "ขท.ราชบุรี",
+  "depot_code": 33505,
+  "depot_name": "หมวดทางหลวงบ้านคา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87165"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 336,
+  "dis_name": "ขท.นครปฐม",
+  "depot_code": 33601,
+  "depot_name": "หมวดทางหลวงนครปฐม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87166"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 336,
+  "dis_name": "ขท.นครปฐม",
+  "depot_code": 33602,
+  "depot_name": "หมวดทางหลวงกำแพงแสน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87167"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 336,
+  "dis_name": "ขท.นครปฐม",
+  "depot_code": 33603,
+  "depot_name": "หมวดทางหลวงท่าตำหนัก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87168"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 336,
+  "dis_name": "ขท.นครปฐม",
+  "depot_code": 33604,
+  "depot_name": "หมวดทางหลวงบางเลน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87169"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 337,
+  "dis_name": "ขท.สมุทรสงคราม",
+  "depot_code": 33701,
+  "depot_name": "หมวดทางหลวงสมุทรสงคราม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8716a"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 337,
+  "dis_name": "ขท.สมุทรสงคราม",
+  "depot_code": 33702,
+  "depot_name": "หมวดทางหลวงบางแพ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8716b"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 337,
+  "dis_name": "ขท.สมุทรสงคราม",
+  "depot_code": 33703,
+  "depot_name": "หมวดทางหลวงปากท่อ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8716c"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 337,
+  "dis_name": "ขท.สมุทรสงคราม",
+  "depot_code": 33704,
+  "depot_name": "หมวดทางหลวงห้วยชินสีห์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8716d"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 338,
+  "dis_name": "ขท.เพชรบุรี",
+  "depot_code": 33801,
+  "depot_name": "หมวดทางหลวงเขาย้อย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8716e"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 338,
+  "dis_name": "ขท.เพชรบุรี",
+  "depot_code": 33802,
+  "depot_name": "หมวดทางหลวงท่ายาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8716f"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 338,
+  "dis_name": "ขท.เพชรบุรี",
+  "depot_code": 33803,
+  "depot_name": "หมวดทางหลวงชะอำ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87170"
+  },
+  "division_code": 330,
+  "division_name": "สำนักงานทางหลวงที่ 15 (ประจวบคีรีขันธ์)",
+  "district_code": 338,
+  "dis_name": "ขท.เพชรบุรี",
+  "depot_code": 33804,
+  "depot_name": "หมวดทางหลวงแก่งกระจาน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87171"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 314,
+  "dis_name": "ขท.พัทลุง",
+  "depot_code": 31401,
+  "depot_name": "หมวดทางหลวงพัทลุง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87172"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 314,
+  "dis_name": "ขท.พัทลุง",
+  "depot_code": 31402,
+  "depot_name": "หมวดทางหลวงศรีนครินทร์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87173"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 314,
+  "dis_name": "ขท.พัทลุง",
+  "depot_code": 31403,
+  "depot_name": "หมวดทางหลวงตะโหมด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87174"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 314,
+  "dis_name": "ขท.พัทลุง",
+  "depot_code": 31404,
+  "depot_name": "หมวดทางหลวงควนขนุน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87175"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 314,
+  "dis_name": "ขท.พัทลุง",
+  "depot_code": 31405,
+  "depot_name": "หมวดทางหลวงป่าบอน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87176"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 321,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 1",
+  "depot_code": 32101,
+  "depot_name": "หมวดทางหลวงลานสกา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87177"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 321,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 1",
+  "depot_code": 32102,
+  "depot_name": "หมวดทางหลวงท่าศาลา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87178"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 321,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 1",
+  "depot_code": 32103,
+  "depot_name": "หมวดทางหลวงนครศรีธรรมราช"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87179"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 321,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 1",
+  "depot_code": 32104,
+  "depot_name": "หมวดทางหลวงนบพิตำ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8717a"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 321,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 1",
+  "depot_code": 32105,
+  "depot_name": "หมวดทางหลวงหน้าสตน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8717b"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 321,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 1",
+  "depot_code": 32106,
+  "depot_name": "หมวดทางหลวงหัวไทร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8717c"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 321,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 1",
+  "depot_code": 32107,
+  "depot_name": "หมวดทางหลวงสิชล"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8717d"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 325,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 1 ",
+  "depot_code": 32501,
+  "depot_name": "หมวดทางหลวงสุราษฎร์ธานี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8717e"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 325,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 1 ",
+  "depot_code": 32502,
+  "depot_name": "หมวดทางหลวงพุนพิน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8717f"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 325,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 1 ",
+  "depot_code": 32503,
+  "depot_name": "หมวดทางหลวงท่าฉาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87180"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 325,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 1 ",
+  "depot_code": 32504,
+  "depot_name": "หมวดทางหลวงคีรีรัฐนิคม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87181"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 325,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 1 ",
+  "depot_code": 32505,
+  "depot_name": "หมวดทางหลวงท่าชนะ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87182"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 326,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 2 (ทุ่งสง)",
+  "depot_code": 32601,
+  "depot_name": "หมวดทางหลวงนาบอน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87183"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 326,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 2 (ทุ่งสง)",
+  "depot_code": 32602,
+  "depot_name": "หมวดทางหลวงร่อนพิบูลย์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87184"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 326,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 2 (ทุ่งสง)",
+  "depot_code": 32603,
+  "depot_name": "หมวดทางหลวงช้างกลาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87185"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 326,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 2 (ทุ่งสง)",
+  "depot_code": 32604,
+  "depot_name": "หมวดทางหลวงทุ่งใหญ่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87186"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 326,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 2 (ทุ่งสง)",
+  "depot_code": 32605,
+  "depot_name": "หมวดทางหลวงชะอวด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87187"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 326,
+  "dis_name": "ขท.นครศรีธรรมราชที่ 2 (ทุ่งสง)",
+  "depot_code": 32606,
+  "depot_name": "หมวดทางหลวงทุ่งสง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87188"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 328,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 2 (กาญจนดิษฐ์)",
+  "depot_code": 32801,
+  "depot_name": "หมวดทางหลวงบ้านนาสาร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87189"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 328,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 2 (กาญจนดิษฐ์)",
+  "depot_code": 32802,
+  "depot_name": "หมวดทางหลวงดอนสัก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8718a"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 328,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 2 (กาญจนดิษฐ์)",
+  "depot_code": 32803,
+  "depot_name": "หมวดทางหลวงเกาะสมุย"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8718b"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 328,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 2 (กาญจนดิษฐ์)",
+  "depot_code": 32804,
+  "depot_name": "หมวดทางหลวงกาญจนดิษฐ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8718c"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 329,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 3 (เวียงสระ)",
+  "depot_code": 32901,
+  "depot_name": "หมวดทางหลวงเวียงสระ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8718d"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 329,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 3 (เวียงสระ)",
+  "depot_code": 32902,
+  "depot_name": "หมวดทางหลวงบ้านส้อง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8718e"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 329,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 3 (เวียงสระ)",
+  "depot_code": 32903,
+  "depot_name": "หมวดทางหลวงเคียนซา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8718f"
+  },
+  "division_code": 320,
+  "division_name": "สำนักงานทางหลวงที่ 16 (นครศรีธรรมราช)",
+  "district_code": 329,
+  "dis_name": "ขท.สุราษฎร์ธานีที่ 3 (เวียงสระ)",
+  "depot_code": 32904,
+  "depot_name": "หมวดทางหลวงพนม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87190"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 322,
+  "dis_name": "ขท.ตรัง",
+  "depot_code": 32201,
+  "depot_name": "หมวดทางหลวงตรัง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87191"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 322,
+  "dis_name": "ขท.ตรัง",
+  "depot_code": 32202,
+  "depot_name": "หมวดทางหลวงย่านตาขาว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87192"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 322,
+  "dis_name": "ขท.ตรัง",
+  "depot_code": 32203,
+  "depot_name": "หมวดทางหลวงนาโยง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87193"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 322,
+  "dis_name": "ขท.ตรัง",
+  "depot_code": 32204,
+  "depot_name": "หมวดทางหลวงสิเกา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87194"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 322,
+  "dis_name": "ขท.ตรัง",
+  "depot_code": 32205,
+  "depot_name": "หมวดทางหลวงห้วยยอด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87195"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 322,
+  "dis_name": "ขท.ตรัง",
+  "depot_code": 32206,
+  "depot_name": "หมวดทางหลวงรัษฎา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87196"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 322,
+  "dis_name": "ขท.ตรัง",
+  "depot_code": 32207,
+  "depot_name": "หมวดทางหลวงวังวิเศษ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87197"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 323,
+  "dis_name": "ขท.กระบี่",
+  "depot_code": 32301,
+  "depot_name": "หมวดทางหลวงกระบี่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87198"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 323,
+  "dis_name": "ขท.กระบี่",
+  "depot_code": 32302,
+  "depot_name": "หมวดทางหลวงคลองท่อม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d87199"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 323,
+  "dis_name": "ขท.กระบี่",
+  "depot_code": 32303,
+  "depot_name": "หมวดทางหลวงเขาพนม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8719a"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 323,
+  "dis_name": "ขท.กระบี่",
+  "depot_code": 32304,
+  "depot_name": "หมวดทางหลวงห้วยน้ำขาว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8719b"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 323,
+  "dis_name": "ขท.กระบี่",
+  "depot_code": 32305,
+  "depot_name": "หมวดทางหลวงทรายขาว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8719c"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 323,
+  "dis_name": "ขท.กระบี่",
+  "depot_code": 32307,
+  "depot_name": "หมวดทางหลวงอ่าวนาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8719d"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 324,
+  "dis_name": "ขท.ภูเก็ต",
+  "depot_code": 32401,
+  "depot_name": "หมวดทางหลวงภูเก็ต"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8719e"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 324,
+  "dis_name": "ขท.ภูเก็ต",
+  "depot_code": 32402,
+  "depot_name": "หมวดทางหลวงราไวย์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d8719f"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 324,
+  "dis_name": "ขท.ภูเก็ต",
+  "depot_code": 32403,
+  "depot_name": "หมวดทางหลวงถลาง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871a0"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 324,
+  "dis_name": "ขท.ภูเก็ต",
+  "depot_code": 32404,
+  "depot_name": "หมวดทางหลวงท้ายเหมือง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871a1"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 327,
+  "dis_name": "ขท.พังงา",
+  "depot_code": 32701,
+  "depot_name": "หมวดทางหลวงพังงา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871a2"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 327,
+  "dis_name": "ขท.พังงา",
+  "depot_code": 32702,
+  "depot_name": "หมวดทางหลวงทับปุด"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871a3"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 327,
+  "dis_name": "ขท.พังงา",
+  "depot_code": 32703,
+  "depot_name": "หมวดทางหลวงตะกั่วป่า"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871a4"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 327,
+  "dis_name": "ขท.พังงา",
+  "depot_code": 32704,
+  "depot_name": "หมวดทางหลวงคุระบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871a5"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 331,
+  "dis_name": "ขท.ระนอง",
+  "depot_code": 33101,
+  "depot_name": "หมวดทางหลวงระนอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871a6"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 331,
+  "dis_name": "ขท.ระนอง",
+  "depot_code": 33102,
+  "depot_name": "หมวดทางหลวงกระบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871a7"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 331,
+  "dis_name": "ขท.ระนอง",
+  "depot_code": 33103,
+  "depot_name": "หมวดทางหลวงกะเปอร์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871a8"
+  },
+  "division_code": 156,
+  "division_name": "สำนักงานทางหลวงที่ 17 (กระบี่)",
+  "district_code": 331,
+  "dis_name": "ขท.ระนอง",
+  "depot_code": 33104,
+  "depot_name": "หมวดทางหลวงพะโต๊ะ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871a9"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 311,
+  "dis_name": "ขท.สงขลาที่ 1",
+  "depot_code": 31101,
+  "depot_name": "หมวดทางหลวงสงขลา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871aa"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 311,
+  "dis_name": "ขท.สงขลาที่ 1",
+  "depot_code": 31102,
+  "depot_name": "หมวดทางหลวงสิงหนคร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871ab"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 311,
+  "dis_name": "ขท.สงขลาที่ 1",
+  "depot_code": 31103,
+  "depot_name": "หมวดทางหลวงหาดใหญ่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871ac"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 311,
+  "dis_name": "ขท.สงขลาที่ 1",
+  "depot_code": 31104,
+  "depot_name": "หมวดทางหลวงคอหงส์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871ad"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 311,
+  "dis_name": "ขท.สงขลาที่ 1",
+  "depot_code": 31106,
+  "depot_name": "หมวดทางหลวงกำแพงเพชร"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871ae"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 311,
+  "dis_name": "ขท.สงขลาที่ 1",
+  "depot_code": 31107,
+  "depot_name": "หมวดทางหลวงสทิงพระ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871af"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 312,
+  "dis_name": "ขท.ยะลา",
+  "depot_code": 31201,
+  "depot_name": "หมวดทางหลวงยะลา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871b0"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 312,
+  "dis_name": "ขท.ยะลา",
+  "depot_code": 31202,
+  "depot_name": "หมวดทางหลวงรามัน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871b1"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 312,
+  "dis_name": "ขท.ยะลา",
+  "depot_code": 31203,
+  "depot_name": "หมวดทางหลวงยะหา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871b2"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 312,
+  "dis_name": "ขท.ยะลา",
+  "depot_code": 31204,
+  "depot_name": "หมวดทางหลวงธารโต"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871b3"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 312,
+  "dis_name": "ขท.ยะลา",
+  "depot_code": 31205,
+  "depot_name": "หมวดทางหลวงเบตง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871b4"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 312,
+  "dis_name": "ขท.ยะลา",
+  "depot_code": 31206,
+  "depot_name": "หมวดทางหลวงยะรม"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871b5"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 313,
+  "dis_name": "ขท.ปัตตานี",
+  "depot_code": 31301,
+  "depot_name": "หมวดทางหลวงหนองจิก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871b6"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 313,
+  "dis_name": "ขท.ปัตตานี",
+  "depot_code": 31302,
+  "depot_name": "หมวดทางหลวงยะรัง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871b7"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 313,
+  "dis_name": "ขท.ปัตตานี",
+  "depot_code": 31303,
+  "depot_name": "หมวดทางหลวงโคกโพธิ์"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871b8"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 313,
+  "dis_name": "ขท.ปัตตานี",
+  "depot_code": 31304,
+  "depot_name": "หมวดทางหลวงปะนาเระ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871b9"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 313,
+  "dis_name": "ขท.ปัตตานี",
+  "depot_code": 31305,
+  "depot_name": "หมวดทางหลวงสายบุรี"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871ba"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 317,
+  "dis_name": "ขท.นราธิวาส",
+  "depot_code": 31701,
+  "depot_name": "หมวดทางหลวงยี่งอ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871bb"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 317,
+  "dis_name": "ขท.นราธิวาส",
+  "depot_code": 31702,
+  "depot_name": "หมวดทางหลวงระแงะ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871bc"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 317,
+  "dis_name": "ขท.นราธิวาส",
+  "depot_code": 31703,
+  "depot_name": "หมวดทางหลวงสุไหงโก-ลก"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871bd"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 317,
+  "dis_name": "ขท.นราธิวาส",
+  "depot_code": 31704,
+  "depot_name": "หมวดทางหลวงรือเสาะ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871be"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 317,
+  "dis_name": "ขท.นราธิวาส",
+  "depot_code": 31705,
+  "depot_name": "หมวดทางหลวงสุคิริน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871bf"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 317,
+  "dis_name": "ขท.นราธิวาส",
+  "depot_code": 31706,
+  "depot_name": "หมวดทางหลวงตากใบ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871c0"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 317,
+  "dis_name": "ขท.นราธิวาส",
+  "depot_code": 31707,
+  "depot_name": "หมวดทางหลวงนราธิวาส"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871c1"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 318,
+  "dis_name": "ขท.สตูล",
+  "depot_code": 31801,
+  "depot_name": "หมวดทางหลวงควนโดน"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871c2"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 318,
+  "dis_name": "ขท.สตูล",
+  "depot_code": 31802,
+  "depot_name": "หมวดทางหลวงท่าแพ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871c3"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 318,
+  "dis_name": "ขท.สตูล",
+  "depot_code": 31803,
+  "depot_name": "หมวดทางหลวงทุ่งหว้า"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871c4"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 318,
+  "dis_name": "ขท.สตูล",
+  "depot_code": 31804,
+  "depot_name": "หมวดทางหลวงควนรู"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871c5"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 319,
+  "dis_name": "ขท.สงขลาที่ 2 (นาหม่อม)",
+  "depot_code": 31901,
+  "depot_name": "หมวดทางหลวงสะเดา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871c6"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 319,
+  "dis_name": "ขท.สงขลาที่ 2 (นาหม่อม)",
+  "depot_code": 31902,
+  "depot_name": "หมวดทางหลวงวังใหญ่"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871c7"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 319,
+  "dis_name": "ขท.สงขลาที่ 2 (นาหม่อม)",
+  "depot_code": 31903,
+  "depot_name": "หมวดทางหลวงจะนะ"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871c8"
+  },
+  "division_code": 310,
+  "division_name": "สำนักงานทางหลวงที่ 18 (สงขลา)",
+  "district_code": 319,
+  "dis_name": "ขท.สงขลาที่ 2 (นาหม่อม)",
+  "depot_code": 31904,
+  "depot_name": "หมวดทางหลวงเทพา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871c9"
+  },
+  "division_code": 260,
+  "division_name": "กองทางหลวงพิเศษระหว่างเมือง",
+  "district_code": 261,
+  "dis_name": "ขท.พิเศษระหว่างเมือง",
+  "depot_code": 26101,
+  "depot_name": "หมวดทางหลวงคลองหลวง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871ca"
+  },
+  "division_code": 260,
+  "division_name": "กองทางหลวงพิเศษระหว่างเมือง",
+  "district_code": 261,
+  "dis_name": "ขท.พิเศษระหว่างเมือง",
+  "depot_code": 26102,
+  "depot_name": "หมวดทางหลวงคันนายาว"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871cb"
+  },
+  "division_code": 260,
+  "division_name": "กองทางหลวงพิเศษระหว่างเมือง",
+  "district_code": 261,
+  "dis_name": "ขท.พิเศษระหว่างเมือง",
+  "depot_code": 26103,
+  "depot_name": "หมวดทางหลวงลาดกระบัง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871cc"
+  },
+  "division_code": 260,
+  "division_name": "กองทางหลวงพิเศษระหว่างเมือง",
+  "district_code": 261,
+  "dis_name": "ขท.พิเศษระหว่างเมือง",
+  "depot_code": 26104,
+  "depot_name": "หมวดทางหลวงพานทอง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871cd"
+  },
+  "division_code": 260,
+  "division_name": "กองทางหลวงพิเศษระหว่างเมือง",
+  "district_code": 261,
+  "dis_name": "ขท.พิเศษระหว่างเมือง",
+  "depot_code": 26105,
+  "depot_name": "หมวดทางหลวงแหลมฉบัง"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871ce"
+  },
+  "division_code": 260,
+  "division_name": "กองทางหลวงพิเศษระหว่างเมือง",
+  "district_code": 261,
+  "dis_name": "ขท.พิเศษระหว่างเมือง",
+  "depot_code": 26106,
+  "depot_name": "หมวดทางหลวงพัทยา"
+},{
+  "_id": {
+    "$oid": "6233f4b0bf62084d99d871cf"
+  },
+  "division_code": 90,
+  "division_name": "บริษัททางยกระดับดอนเมือง จำกัดมหาชน",
+  "district_code": 99,
+  "dis_name": "บริษัททางยกระดับดอนเมือง จำกัดมหาชน",
+  "depot_code": "\\N",
+  "depot_name": "\\N"
+}]
